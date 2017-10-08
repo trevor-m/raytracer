@@ -1,0 +1,5834 @@
+Composer format 2.1 ascii
+camera {
+  position 0.202955 0.816734 5.41876
+  viewDirection -0.0563634 -0.523244 -0.850317
+  focalDistance 6.37114
+  orthoUp -0.125131 0.848658 -0.513928
+  verticalFOV 0.785398
+}
+point_light {
+  position -8.91879 4.04118 9.70215
+  color 1 1 1
+}
+directional_light {
+  direction -0.0563634 -0.523244 -0.850317
+  color 1 1 1
+}
+poly_set {
+  name NULL
+  numMaterials 192
+  material {
+    diffColor 0.725793 0.676019 0.676019
+    ambColor 0.2 0.2 0.2
+    specColor 0.12466 0.12466 0.12466
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899999 0.899998 0.899998
+    ambColor 0.2 0.2 0.2
+    specColor 0.050001 0.050001 0.050001
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.724206 0.673979 0.673979
+    ambColor 0.2 0.2 0.2
+    specColor 0.12534 0.12534 0.12534
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.374207 0.22398 0.22398
+    ambColor 0.2 0.2 0.2
+    specColor 0.27534 0.27534 0.27534
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200001 2e-006 2e-006
+    ambColor 0.2 0.2 0.2
+    specColor 0.349999 0.349999 0.349999
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.375794 0.226021 0.226021
+    ambColor 0.2 0.2 0.2
+    specColor 0.27466 0.27466 0.27466
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.725793 0.676019 0.676019
+    ambColor 0.2 0.2 0.2
+    specColor 0.12466 0.12466 0.12466
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899999 0.899998 0.899998
+    ambColor 0.2 0.2 0.2
+    specColor 0.050001 0.050001 0.050001
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.724206 0.673979 0.673979
+    ambColor 0.2 0.2 0.2
+    specColor 0.12534 0.12534 0.12534
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.374207 0.223981 0.223981
+    ambColor 0.2 0.2 0.2
+    specColor 0.27534 0.27534 0.27534
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200001 2e-006 2e-006
+    ambColor 0.2 0.2 0.2
+    specColor 0.349999 0.349999 0.349999
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.375794 0.226021 0.226021
+    ambColor 0.2 0.2 0.2
+    specColor 0.27466 0.27466 0.27466
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.376589 0.227043 0.227043
+    ambColor 0.2 0.2 0.2
+    specColor 0.274319 0.274319 0.274319
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.726584 0.677037 0.677037
+    ambColor 0.2 0.2 0.2
+    specColor 0.124321 0.124321 0.124321
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899995 0.899994 0.899994
+    ambColor 0.2 0.2 0.2
+    specColor 0.050002 0.050002 0.050002
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.723411 0.672957 0.672957
+    ambColor 0.2 0.2 0.2
+    specColor 0.125681 0.125681 0.125681
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.373416 0.222963 0.222963
+    ambColor 0.2 0.2 0.2
+    specColor 0.275679 0.275679 0.275679
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200005 6e-006 6e-006
+    ambColor 0.2 0.2 0.2
+    specColor 0.349998 0.349998 0.349998
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.376589 0.227043 0.227043
+    ambColor 0.2 0.2 0.2
+    specColor 0.274319 0.274319 0.274319
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.726584 0.677037 0.677037
+    ambColor 0.2 0.2 0.2
+    specColor 0.124321 0.124321 0.124321
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899995 0.899994 0.899994
+    ambColor 0.2 0.2 0.2
+    specColor 0.050002 0.050002 0.050002
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.723411 0.672957 0.672957
+    ambColor 0.2 0.2 0.2
+    specColor 0.125681 0.125681 0.125681
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.373416 0.222964 0.222964
+    ambColor 0.2 0.2 0.2
+    specColor 0.275679 0.275679 0.275679
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200005 6e-006 6e-006
+    ambColor 0.2 0.2 0.2
+    specColor 0.349998 0.349998 0.349998
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200011 1.4e-005 1.4e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349995 0.349995 0.349995
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.377385 0.228066 0.228066
+    ambColor 0.2 0.2 0.2
+    specColor 0.273978 0.273978 0.273978
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.727374 0.678052 0.678052
+    ambColor 0.2 0.2 0.2
+    specColor 0.123983 0.123983 0.123983
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899989 0.899986 0.899986
+    ambColor 0.2 0.2 0.2
+    specColor 0.050005 0.050005 0.050005
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.722615 0.671934 0.671934
+    ambColor 0.2 0.2 0.2
+    specColor 0.126022 0.126022 0.126022
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.372626 0.221948 0.221948
+    ambColor 0.2 0.2 0.2
+    specColor 0.276017 0.276017 0.276017
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200011 1.4e-005 1.4e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349995 0.349995 0.349995
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.377385 0.228066 0.228066
+    ambColor 0.2 0.2 0.2
+    specColor 0.273978 0.273978 0.273978
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.727374 0.678053 0.678053
+    ambColor 0.2 0.2 0.2
+    specColor 0.123982 0.123982 0.123982
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899989 0.899986 0.899986
+    ambColor 0.2 0.2 0.2
+    specColor 0.050005 0.050005 0.050005
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.722614 0.671932 0.671932
+    ambColor 0.2 0.2 0.2
+    specColor 0.126023 0.126023 0.126023
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.372624 0.221945 0.221945
+    ambColor 0.2 0.2 0.2
+    specColor 0.276018 0.276018 0.276018
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.371834 0.22093 0.22093
+    ambColor 0.2 0.2 0.2
+    specColor 0.276357 0.276357 0.276357
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200019 2.5e-005 2.5e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349992 0.349992 0.349992
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.378186 0.229096 0.229096
+    ambColor 0.2 0.2 0.2
+    specColor 0.273635 0.273635 0.273635
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.728167 0.679072 0.679072
+    ambColor 0.2 0.2 0.2
+    specColor 0.123643 0.123643 0.123643
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899981 0.899975 0.899975
+    ambColor 0.2 0.2 0.2
+    specColor 0.050008 0.050008 0.050008
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.721813 0.670902 0.670902
+    ambColor 0.2 0.2 0.2
+    specColor 0.126366 0.126366 0.126366
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.371831 0.220926 0.220926
+    ambColor 0.2 0.2 0.2
+    specColor 0.276358 0.276358 0.276358
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200019 2.5e-005 2.5e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349992 0.349992 0.349992
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.378189 0.2291 0.2291
+    ambColor 0.2 0.2 0.2
+    specColor 0.273633 0.273633 0.273633
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.72817 0.679076 0.679076
+    ambColor 0.2 0.2 0.2
+    specColor 0.123641 0.123641 0.123641
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899981 0.899975 0.899975
+    ambColor 0.2 0.2 0.2
+    specColor 0.050008 0.050008 0.050008
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.721809 0.670898 0.670898
+    ambColor 0.2 0.2 0.2
+    specColor 0.126367 0.126367 0.126367
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.72101 0.66987 0.66987
+    ambColor 0.2 0.2 0.2
+    specColor 0.12671 0.12671 0.12671
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.37104 0.219908 0.219908
+    ambColor 0.2 0.2 0.2
+    specColor 0.276697 0.276697 0.276697
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.20003 3.9e-005 3.9e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349987 0.349987 0.349987
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.378991 0.230132 0.230132
+    ambColor 0.2 0.2 0.2
+    specColor 0.273289 0.273289 0.273289
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.728962 0.680094 0.680094
+    ambColor 0.2 0.2 0.2
+    specColor 0.123302 0.123302 0.123302
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.89997 0.899961 0.899961
+    ambColor 0.2 0.2 0.2
+    specColor 0.050013 0.050013 0.050013
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.721007 0.669866 0.669866
+    ambColor 0.2 0.2 0.2
+    specColor 0.126711 0.126711 0.126711
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.371037 0.219904 0.219904
+    ambColor 0.2 0.2 0.2
+    specColor 0.276699 0.276699 0.276699
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.20003 3.9e-005 3.9e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349987 0.349987 0.349987
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.378995 0.230136 0.230136
+    ambColor 0.2 0.2 0.2
+    specColor 0.273288 0.273288 0.273288
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.728965 0.680098 0.680098
+    ambColor 0.2 0.2 0.2
+    specColor 0.123301 0.123301 0.123301
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.89997 0.899961 0.899961
+    ambColor 0.2 0.2 0.2
+    specColor 0.050013 0.050013 0.050013
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899957 0.899944 0.899944
+    ambColor 0.2 0.2 0.2
+    specColor 0.050019 0.050019 0.050019
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.720203 0.668833 0.668833
+    ambColor 0.2 0.2 0.2
+    specColor 0.127056 0.127056 0.127056
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.370247 0.218889 0.218889
+    ambColor 0.2 0.2 0.2
+    specColor 0.277037 0.277037 0.277037
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200043 5.6e-005 5.6e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349981 0.349981 0.349981
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.379795 0.231165 0.231165
+    ambColor 0.2 0.2 0.2
+    specColor 0.272945 0.272945 0.272945
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.729751 0.681108 0.681108
+    ambColor 0.2 0.2 0.2
+    specColor 0.122964 0.122964 0.122964
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899957 0.899944 0.899944
+    ambColor 0.2 0.2 0.2
+    specColor 0.050019 0.050019 0.050019
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.720207 0.668838 0.668838
+    ambColor 0.2 0.2 0.2
+    specColor 0.127054 0.127054 0.127054
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.370251 0.218894 0.218894
+    ambColor 0.2 0.2 0.2
+    specColor 0.277035 0.277035 0.277035
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200043 5.6e-005 5.6e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349981 0.349981 0.349981
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.379791 0.23116 0.23116
+    ambColor 0.2 0.2 0.2
+    specColor 0.272947 0.272947 0.272947
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.729747 0.681103 0.681103
+    ambColor 0.2 0.2 0.2
+    specColor 0.122966 0.122966 0.122966
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.730532 0.682113 0.682113
+    ambColor 0.2 0.2 0.2
+    specColor 0.122629 0.122629 0.122629
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899941 0.899924 0.899924
+    ambColor 0.2 0.2 0.2
+    specColor 0.050025 0.050025 0.050025
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.71941 0.667813 0.667813
+    ambColor 0.2 0.2 0.2
+    specColor 0.127396 0.127396 0.127396
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.36947 0.21789 0.21789
+    ambColor 0.2 0.2 0.2
+    specColor 0.27737 0.27737 0.27737
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200059 7.6e-005 7.6e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349975 0.349975 0.349975
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.380588 0.232184 0.232184
+    ambColor 0.2 0.2 0.2
+    specColor 0.272605 0.272605 0.272605
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.730528 0.682108 0.682108
+    ambColor 0.2 0.2 0.2
+    specColor 0.122631 0.122631 0.122631
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899941 0.899924 0.899924
+    ambColor 0.2 0.2 0.2
+    specColor 0.050025 0.050025 0.050025
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.719414 0.667818 0.667818
+    ambColor 0.2 0.2 0.2
+    specColor 0.127394 0.127394 0.127394
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.369474 0.217895 0.217895
+    ambColor 0.2 0.2 0.2
+    specColor 0.277368 0.277368 0.277368
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200059 7.6e-005 7.6e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349975 0.349975 0.349975
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.380584 0.232179 0.232179
+    ambColor 0.2 0.2 0.2
+    specColor 0.272607 0.272607 0.272607
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.381386 0.23321 0.23321
+    ambColor 0.2 0.2 0.2
+    specColor 0.272263 0.272263 0.272263
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.731308 0.683111 0.683111
+    ambColor 0.2 0.2 0.2
+    specColor 0.122296 0.122296 0.122296
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899923 0.899901 0.899901
+    ambColor 0.2 0.2 0.2
+    specColor 0.050033 0.050033 0.050033
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.718616 0.666792 0.666792
+    ambColor 0.2 0.2 0.2
+    specColor 0.127736 0.127736 0.127736
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.368694 0.216892 0.216892
+    ambColor 0.2 0.2 0.2
+    specColor 0.277703 0.277703 0.277703
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200077 9.9e-005 9.9e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349967 0.349967 0.349967
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.381382 0.233205 0.233205
+    ambColor 0.2 0.2 0.2
+    specColor 0.272265 0.272265 0.272265
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.731304 0.683106 0.683106
+    ambColor 0.2 0.2 0.2
+    specColor 0.122298 0.122298 0.122298
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899923 0.899902 0.899902
+    ambColor 0.2 0.2 0.2
+    specColor 0.050033 0.050033 0.050033
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.71862 0.666797 0.666797
+    ambColor 0.2 0.2 0.2
+    specColor 0.127734 0.127734 0.127734
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.368697 0.216897 0.216897
+    ambColor 0.2 0.2 0.2
+    specColor 0.277701 0.277701 0.277701
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200077 9.8e-005 9.8e-005
+    ambColor 0.2 0.2 0.2
+    specColor 0.349967 0.349967 0.349967
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200097 0.000125 0.000125
+    ambColor 0.2 0.2 0.2
+    specColor 0.349958 0.349958 0.349958
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.382181 0.234232 0.234232
+    ambColor 0.2 0.2 0.2
+    specColor 0.271923 0.271923 0.271923
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.732083 0.684107 0.684107
+    ambColor 0.2 0.2 0.2
+    specColor 0.121964 0.121964 0.121964
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899903 0.899875 0.899875
+    ambColor 0.2 0.2 0.2
+    specColor 0.050042 0.050042 0.050042
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.717821 0.66577 0.66577
+    ambColor 0.2 0.2 0.2
+    specColor 0.128077 0.128077 0.128077
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.367919 0.215895 0.215895
+    ambColor 0.2 0.2 0.2
+    specColor 0.278035 0.278035 0.278035
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200097 0.000124 0.000124
+    ambColor 0.2 0.2 0.2
+    specColor 0.349959 0.349959 0.349959
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.382177 0.234227 0.234227
+    ambColor 0.2 0.2 0.2
+    specColor 0.271924 0.271924 0.271924
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.732079 0.684102 0.684102
+    ambColor 0.2 0.2 0.2
+    specColor 0.121966 0.121966 0.121966
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899903 0.899876 0.899876
+    ambColor 0.2 0.2 0.2
+    specColor 0.050041 0.050041 0.050041
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.717825 0.665775 0.665775
+    ambColor 0.2 0.2 0.2
+    specColor 0.128075 0.128075 0.128075
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.367922 0.2159 0.2159
+    ambColor 0.2 0.2 0.2
+    specColor 0.278033 0.278033 0.278033
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.367141 0.214896 0.214896
+    ambColor 0.2 0.2 0.2
+    specColor 0.278368 0.278368 0.278368
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200119 0.000154 0.000154
+    ambColor 0.2 0.2 0.2
+    specColor 0.349949 0.349949 0.349949
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.382977 0.235256 0.235256
+    ambColor 0.2 0.2 0.2
+    specColor 0.271581 0.271581 0.271581
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.732857 0.685102 0.685102
+    ambColor 0.2 0.2 0.2
+    specColor 0.121633 0.121633 0.121633
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899881 0.899846 0.899846
+    ambColor 0.2 0.2 0.2
+    specColor 0.050051 0.050051 0.050051
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.717025 0.664746 0.664746
+    ambColor 0.2 0.2 0.2
+    specColor 0.128418 0.128418 0.128418
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.367145 0.214901 0.214901
+    ambColor 0.2 0.2 0.2
+    specColor 0.278366 0.278366 0.278366
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200119 0.000153 0.000153
+    ambColor 0.2 0.2 0.2
+    specColor 0.349949 0.349949 0.349949
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.382973 0.235251 0.235251
+    ambColor 0.2 0.2 0.2
+    specColor 0.271583 0.271583 0.271583
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.732853 0.685097 0.685097
+    ambColor 0.2 0.2 0.2
+    specColor 0.121634 0.121634 0.121634
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899881 0.899847 0.899847
+    ambColor 0.2 0.2 0.2
+    specColor 0.050051 0.050051 0.050051
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.717029 0.664751 0.664751
+    ambColor 0.2 0.2 0.2
+    specColor 0.128416 0.128416 0.128416
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.716224 0.663716 0.663716
+    ambColor 0.2 0.2 0.2
+    specColor 0.128761 0.128761 0.128761
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.366369 0.213903 0.213903
+    ambColor 0.2 0.2 0.2
+    specColor 0.278699 0.278699 0.278699
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200144 0.000186 0.000186
+    ambColor 0.2 0.2 0.2
+    specColor 0.349938 0.349938 0.349938
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.383777 0.236284 0.236284
+    ambColor 0.2 0.2 0.2
+    specColor 0.271239 0.271239 0.271239
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.733632 0.686098 0.686098
+    ambColor 0.2 0.2 0.2
+    specColor 0.121301 0.121301 0.121301
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899856 0.899814 0.899814
+    ambColor 0.2 0.2 0.2
+    specColor 0.050062 0.050062 0.050062
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.716225 0.663718 0.663718
+    ambColor 0.2 0.2 0.2
+    specColor 0.128761 0.128761 0.128761
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.36637 0.213905 0.213905
+    ambColor 0.2 0.2 0.2
+    specColor 0.278698 0.278698 0.278698
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200144 0.000185 0.000185
+    ambColor 0.2 0.2 0.2
+    specColor 0.349938 0.349938 0.349938
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.383773 0.236279 0.236279
+    ambColor 0.2 0.2 0.2
+    specColor 0.27124 0.27124 0.27124
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.733628 0.686093 0.686093
+    ambColor 0.2 0.2 0.2
+    specColor 0.121302 0.121302 0.121302
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899856 0.899815 0.899815
+    ambColor 0.2 0.2 0.2
+    specColor 0.050062 0.050062 0.050062
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899828 0.899779 0.899779
+    ambColor 0.2 0.2 0.2
+    specColor 0.050074 0.050074 0.050074
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.715423 0.662687 0.662687
+    ambColor 0.2 0.2 0.2
+    specColor 0.129104 0.129104 0.129104
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.365595 0.212908 0.212908
+    ambColor 0.2 0.2 0.2
+    specColor 0.279031 0.279031 0.279031
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200172 0.000221 0.000221
+    ambColor 0.2 0.2 0.2
+    specColor 0.349926 0.349926 0.349926
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.384575 0.237311 0.237311
+    ambColor 0.2 0.2 0.2
+    specColor 0.270896 0.270896 0.270896
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.734403 0.687089 0.687089
+    ambColor 0.2 0.2 0.2
+    specColor 0.12097 0.12097 0.12097
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899828 0.899779 0.899779
+    ambColor 0.2 0.2 0.2
+    specColor 0.050074 0.050074 0.050074
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.715427 0.662692 0.662692
+    ambColor 0.2 0.2 0.2
+    specColor 0.129103 0.129103 0.129103
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.365599 0.212913 0.212913
+    ambColor 0.2 0.2 0.2
+    specColor 0.279029 0.279029 0.279029
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200171 0.00022 0.00022
+    ambColor 0.2 0.2 0.2
+    specColor 0.349927 0.349927 0.349927
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.384571 0.237306 0.237306
+    ambColor 0.2 0.2 0.2
+    specColor 0.270898 0.270898 0.270898
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.734399 0.687084 0.687084
+    ambColor 0.2 0.2 0.2
+    specColor 0.120972 0.120972 0.120972
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.735176 0.688084 0.688084
+    ambColor 0.2 0.2 0.2
+    specColor 0.120639 0.120639 0.120639
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899799 0.899741 0.899741
+    ambColor 0.2 0.2 0.2
+    specColor 0.050086 0.050086 0.050086
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.714624 0.661659 0.661659
+    ambColor 0.2 0.2 0.2
+    specColor 0.129447 0.129447 0.129447
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.364826 0.211919 0.211919
+    ambColor 0.2 0.2 0.2
+    specColor 0.279361 0.279361 0.279361
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200201 0.000259 0.000259
+    ambColor 0.2 0.2 0.2
+    specColor 0.349914 0.349914 0.349914
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.385374 0.238338 0.238338
+    ambColor 0.2 0.2 0.2
+    specColor 0.270554 0.270554 0.270554
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.735173 0.688079 0.688079
+    ambColor 0.2 0.2 0.2
+    specColor 0.12064 0.12064 0.12064
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899799 0.899741 0.899741
+    ambColor 0.2 0.2 0.2
+    specColor 0.050086 0.050086 0.050086
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.714628 0.661664 0.661664
+    ambColor 0.2 0.2 0.2
+    specColor 0.129445 0.129445 0.129445
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.364829 0.211923 0.211923
+    ambColor 0.2 0.2 0.2
+    specColor 0.279359 0.279359 0.279359
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200201 0.000258 0.000258
+    ambColor 0.2 0.2 0.2
+    specColor 0.349914 0.349914 0.349914
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.38537 0.238333 0.238333
+    ambColor 0.2 0.2 0.2
+    specColor 0.270556 0.270556 0.270556
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.386179 0.239373 0.239373
+    ambColor 0.2 0.2 0.2
+    specColor 0.270209 0.270209 0.270209
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.735945 0.689072 0.689072
+    ambColor 0.2 0.2 0.2
+    specColor 0.120309 0.120309 0.120309
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899767 0.8997 0.8997
+    ambColor 0.2 0.2 0.2
+    specColor 0.0501 0.0501 0.0501
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.713823 0.66063 0.66063
+    ambColor 0.2 0.2 0.2
+    specColor 0.12979 0.12979 0.12979
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.364057 0.21093 0.21093
+    ambColor 0.2 0.2 0.2
+    specColor 0.27969 0.27969 0.27969
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200233 0.0003 0.0003
+    ambColor 0.2 0.2 0.2
+    specColor 0.3499 0.3499 0.3499
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.386175 0.239368 0.239368
+    ambColor 0.2 0.2 0.2
+    specColor 0.270211 0.270211 0.270211
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.735941 0.689067 0.689067
+    ambColor 0.2 0.2 0.2
+    specColor 0.120311 0.120311 0.120311
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899767 0.8997 0.8997
+    ambColor 0.2 0.2 0.2
+    specColor 0.0501 0.0501 0.0501
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.713827 0.660635 0.660635
+    ambColor 0.2 0.2 0.2
+    specColor 0.129788 0.129788 0.129788
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.364061 0.210935 0.210935
+    ambColor 0.2 0.2 0.2
+    specColor 0.279688 0.279688 0.279688
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200233 0.000299 0.000299
+    ambColor 0.2 0.2 0.2
+    specColor 0.3499 0.3499 0.3499
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.386171 0.239363 0.239363
+    ambColor 0.2 0.2 0.2
+    specColor 0.270212 0.270212 0.270212
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.735937 0.689062 0.689062
+    ambColor 0.2 0.2 0.2
+    specColor 0.120313 0.120313 0.120313
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899767 0.899701 0.899701
+    ambColor 0.2 0.2 0.2
+    specColor 0.0501 0.0501 0.0501
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.713831 0.66064 0.66064
+    ambColor 0.2 0.2 0.2
+    specColor 0.129787 0.129787 0.129787
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.364064 0.21094 0.21094
+    ambColor 0.2 0.2 0.2
+    specColor 0.279687 0.279687 0.279687
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200233 0.000299 0.000299
+    ambColor 0.2 0.2 0.2
+    specColor 0.3499 0.3499 0.3499
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.386167 0.239358 0.239358
+    ambColor 0.2 0.2 0.2
+    specColor 0.270214 0.270214 0.270214
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.735934 0.689058 0.689058
+    ambColor 0.2 0.2 0.2
+    specColor 0.120314 0.120314 0.120314
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899767 0.899701 0.899701
+    ambColor 0.2 0.2 0.2
+    specColor 0.0501 0.0501 0.0501
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.713835 0.660645 0.660645
+    ambColor 0.2 0.2 0.2
+    specColor 0.129785 0.129785 0.129785
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.364068 0.210945 0.210945
+    ambColor 0.2 0.2 0.2
+    specColor 0.279685 0.279685 0.279685
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200233 0.000299 0.000299
+    ambColor 0.2 0.2 0.2
+    specColor 0.3499 0.3499 0.3499
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.386163 0.239353 0.239353
+    ambColor 0.2 0.2 0.2
+    specColor 0.270216 0.270216 0.270216
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.73593 0.689053 0.689053
+    ambColor 0.2 0.2 0.2
+    specColor 0.120316 0.120316 0.120316
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899768 0.899701 0.899701
+    ambColor 0.2 0.2 0.2
+    specColor 0.0501 0.0501 0.0501
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.713839 0.66065 0.66065
+    ambColor 0.2 0.2 0.2
+    specColor 0.129783 0.129783 0.129783
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.364072 0.21095 0.21095
+    ambColor 0.2 0.2 0.2
+    specColor 0.279683 0.279683 0.279683
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200232 0.000299 0.000299
+    ambColor 0.2 0.2 0.2
+    specColor 0.3499 0.3499 0.3499
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.386159 0.239347 0.239347
+    ambColor 0.2 0.2 0.2
+    specColor 0.270218 0.270218 0.270218
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.735926 0.689048 0.689048
+    ambColor 0.2 0.2 0.2
+    specColor 0.120317 0.120317 0.120317
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.899768 0.899701 0.899701
+    ambColor 0.2 0.2 0.2
+    specColor 0.0501 0.0501 0.0501
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.713843 0.660655 0.660655
+    ambColor 0.2 0.2 0.2
+    specColor 0.129782 0.129782 0.129782
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.364076 0.210954 0.210954
+    ambColor 0.2 0.2 0.2
+    specColor 0.279682 0.279682 0.279682
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  material {
+    diffColor 0.200232 0.000299 0.000299
+    ambColor 0.2 0.2 0.2
+    specColor 0.3499 0.3499 0.3499
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  type POLYSET_TRI_MESH
+  normType PER_VERTEX_NORMAL
+  materialBinding PER_VERTEX_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 356
+  poly {
+    numVertices 3
+    pos 1.84161 -3.31604 0.714097
+    norm 0.800103 -0.500001 0.331413
+    materialIndex 11
+    pos 1.96539 -2.81604 0.765367
+    norm 0.92388 0 0.382683
+    materialIndex 0
+    pos 1.53185 -2.81604 1.41421
+    norm 0.707107 -1e-006 0.707107
+    materialIndex 12
+  }
+  poly {
+    numVertices 3
+    pos 1.43711 -3.31604 1.31948
+    norm 0.612372 -0.500001 0.612372
+    materialIndex 23
+    pos 1.84161 -3.31604 0.714097
+    norm 0.800103 -0.500001 0.331413
+    materialIndex 11
+    pos 1.53185 -2.81604 1.41421
+    norm 0.707107 -1e-006 0.707107
+    materialIndex 12
+  }
+  poly {
+    numVertices 3
+    pos 1.96539 -2.81604 0.765367
+    norm 0.92388 0 0.382683
+    materialIndex 0
+    pos 1.84161 -2.31604 0.714097
+    norm 0.800103 0.5 0.331414
+    materialIndex 1
+    pos 1.43711 -2.31604 1.31948
+    norm 0.612373 0.499999 0.612373
+    materialIndex 13
+  }
+  poly {
+    numVertices 3
+    pos 1.53185 -2.81604 1.41421
+    norm 0.707107 -1e-006 0.707107
+    materialIndex 12
+    pos 1.96539 -2.81604 0.765367
+    norm 0.92388 0 0.382683
+    materialIndex 0
+    pos 1.43711 -2.31604 1.31948
+    norm 0.612373 0.499999 0.612373
+    materialIndex 13
+  }
+  poly {
+    numVertices 3
+    pos 1.84161 -2.31604 0.714097
+    norm 0.800103 0.5 0.331414
+    materialIndex 1
+    pos 1.50345 -1.95001 0.574025
+    norm 0.46194 0.866025 0.191342
+    materialIndex 2
+    pos 1.17829 -1.95001 1.06066
+    norm 0.353554 0.866025 0.353554
+    materialIndex 14
+  }
+  poly {
+    numVertices 3
+    pos 1.43711 -2.31604 1.31948
+    norm 0.612373 0.499999 0.612373
+    materialIndex 13
+    pos 1.84161 -2.31604 0.714097
+    norm 0.800103 0.5 0.331414
+    materialIndex 1
+    pos 1.17829 -1.95001 1.06066
+    norm 0.353554 0.866025 0.353554
+    materialIndex 14
+  }
+  poly {
+    numVertices 3
+    pos 1.50345 -1.95001 0.574025
+    norm 0.46194 0.866025 0.191342
+    materialIndex 2
+    pos 1.04151 -1.81604 0.382683
+    norm 0 1 0
+    materialIndex 3
+    pos 0.824739 -1.81604 0.707108
+    norm 1e-006 1 1e-006
+    materialIndex 15
+  }
+  poly {
+    numVertices 3
+    pos 1.17829 -1.95001 1.06066
+    norm 0.353554 0.866025 0.353554
+    materialIndex 14
+    pos 1.50345 -1.95001 0.574025
+    norm 0.46194 0.866025 0.191342
+    materialIndex 2
+    pos 0.824739 -1.81604 0.707108
+    norm 1e-006 1 1e-006
+    materialIndex 15
+  }
+  poly {
+    numVertices 3
+    pos 1.04151 -1.81604 0.382683
+    norm 0 1 0
+    materialIndex 3
+    pos 0.579571 -1.95001 0.191342
+    norm -0.46194 0.866025 -0.191342
+    materialIndex 4
+    pos 0.471185 -1.95001 0.353554
+    norm -0.353553 0.866026 -0.353553
+    materialIndex 16
+  }
+  poly {
+    numVertices 3
+    pos 0.824739 -1.81604 0.707108
+    norm 1e-006 1 1e-006
+    materialIndex 15
+    pos 1.04151 -1.81604 0.382683
+    norm 0 1 0
+    materialIndex 3
+    pos 0.471185 -1.95001 0.353554
+    norm -0.353553 0.866026 -0.353553
+    materialIndex 16
+  }
+  poly {
+    numVertices 3
+    pos 0.579571 -1.95001 0.191342
+    norm -0.46194 0.866025 -0.191342
+    materialIndex 4
+    pos 0.241407 -2.31604 0.05127
+    norm -0.800103 0.5 -0.331414
+    materialIndex 5
+    pos 0.212366 -2.31604 0.094735
+    norm -0.612372 0.500001 -0.612372
+    materialIndex 17
+  }
+  poly {
+    numVertices 3
+    pos 0.471185 -1.95001 0.353554
+    norm -0.353553 0.866026 -0.353553
+    materialIndex 16
+    pos 0.579571 -1.95001 0.191342
+    norm -0.46194 0.866025 -0.191342
+    materialIndex 4
+    pos 0.212366 -2.31604 0.094735
+    norm -0.612372 0.500001 -0.612372
+    materialIndex 17
+  }
+  poly {
+    numVertices 3
+    pos 0.241407 -2.31604 0.05127
+    norm -0.800103 0.5 -0.331414
+    materialIndex 5
+    pos 0.117631 -2.81604 0
+    norm -0.92388 0 -0.382683
+    materialIndex 6
+    pos 0.117631 -2.81604 0.01
+    norm -0.707107 1e-006 -0.707107
+    materialIndex 18
+  }
+  poly {
+    numVertices 3
+    pos 0.212366 -2.31604 0.094735
+    norm -0.612372 0.500001 -0.612372
+    materialIndex 17
+    pos 0.241407 -2.31604 0.05127
+    norm -0.800103 0.5 -0.331414
+    materialIndex 5
+    pos 0.117631 -2.81604 0
+    norm -0.707107 1e-006 -0.707107
+    materialIndex 18
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81604 0
+    norm -0.92388 0 -0.382683
+    materialIndex 6
+    pos 0.241407 -3.31604 0.05127
+    norm -0.800103 -0.5 -0.331414
+    materialIndex 7
+    pos 0.212365 -3.31604 0.094734
+    norm -0.612373 -0.499999 -0.612373
+    materialIndex 19
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81604 0
+    norm -0.707107 1e-006 -0.707107
+    materialIndex 18
+    pos 0.117631 -2.81604 0
+    norm -0.92388 0 -0.382683
+    materialIndex 6
+    pos 0.212365 -3.31604 0.094734
+    norm -0.612373 -0.499999 -0.612373
+    materialIndex 19
+  }
+  poly {
+    numVertices 3
+    pos 0.241407 -3.31604 0.05127
+    norm -0.800103 -0.5 -0.331414
+    materialIndex 7
+    pos 0.57957 -3.68206 0.191342
+    norm -0.46194 -0.866025 -0.191342
+    materialIndex 8
+    pos 0.471184 -3.68206 0.353553
+    norm -0.353554 -0.866025 -0.353554
+    materialIndex 20
+  }
+  poly {
+    numVertices 3
+    pos 0.212365 -3.31604 0.094734
+    norm -0.612373 -0.499999 -0.612373
+    materialIndex 19
+    pos 0.241407 -3.31604 0.05127
+    norm -0.800103 -0.5 -0.331414
+    materialIndex 7
+    pos 0.471184 -3.68206 0.353553
+    norm -0.353554 -0.866025 -0.353554
+    materialIndex 20
+  }
+  poly {
+    numVertices 3
+    pos 0.57957 -3.68206 0.191342
+    norm -0.46194 -0.866025 -0.191342
+    materialIndex 8
+    pos 1.04151 -3.81604 0.382683
+    norm 0 -1 0
+    materialIndex 9
+    pos 0.824737 -3.81604 0.707106
+    norm -1e-006 -1 -1e-006
+    materialIndex 21
+  }
+  poly {
+    numVertices 3
+    pos 0.471184 -3.68206 0.353553
+    norm -0.353554 -0.866025 -0.353554
+    materialIndex 20
+    pos 0.57957 -3.68206 0.191342
+    norm -0.46194 -0.866025 -0.191342
+    materialIndex 8
+    pos 0.824737 -3.81604 0.707106
+    norm -1e-006 -1 -1e-006
+    materialIndex 21
+  }
+  poly {
+    numVertices 3
+    pos 1.04151 -3.81604 0.382683
+    norm 0 -1 0
+    materialIndex 9
+    pos 1.50345 -3.68206 0.574025
+    norm 0.461939 -0.866026 0.191342
+    materialIndex 10
+    pos 1.17829 -3.68206 1.06066
+    norm 0.353553 -0.866026 0.353553
+    materialIndex 22
+  }
+  poly {
+    numVertices 3
+    pos 0.824737 -3.81604 0.707106
+    norm -1e-006 -1 -1e-006
+    materialIndex 21
+    pos 1.04151 -3.81604 0.382683
+    norm 0 -1 0
+    materialIndex 9
+    pos 1.17829 -3.68206 1.06066
+    norm 0.353553 -0.866026 0.353553
+    materialIndex 22
+  }
+  poly {
+    numVertices 3
+    pos 1.50345 -3.68206 0.574025
+    norm 0.461939 -0.866026 0.191342
+    materialIndex 10
+    pos 1.84161 -3.31604 0.714097
+    norm 0.800103 -0.500001 0.331413
+    materialIndex 11
+    pos 1.43711 -3.31604 1.31948
+    norm 0.612372 -0.500001 0.612372
+    materialIndex 23
+  }
+  poly {
+    numVertices 3
+    pos 1.17829 -3.68206 1.06066
+    norm 0.353553 -0.866026 0.353553
+    materialIndex 22
+    pos 1.50345 -3.68206 0.574025
+    norm 0.461939 -0.866026 0.191342
+    materialIndex 10
+    pos 1.43711 -3.31604 1.31948
+    norm 0.612372 -0.500001 0.612372
+    materialIndex 23
+  }
+  poly {
+    numVertices 3
+    pos 1.43711 -3.31604 1.31948
+    norm 0.612372 -0.500001 0.612372
+    materialIndex 23
+    pos 1.53185 -2.81604 1.41421
+    norm 0.707107 -1e-006 0.707107
+    materialIndex 12
+    pos 0.882998 -2.81604 1.84776
+    norm 0.382683 -2e-006 0.92388
+    materialIndex 24
+  }
+  poly {
+    numVertices 3
+    pos 0.831728 -3.31604 1.72398
+    norm 0.331414 -0.499999 0.800104
+    materialIndex 35
+    pos 1.43711 -3.31604 1.31948
+    norm 0.612372 -0.500001 0.612372
+    materialIndex 23
+    pos 0.882998 -2.81604 1.84776
+    norm 0.382683 -2e-006 0.92388
+    materialIndex 24
+  }
+  poly {
+    numVertices 3
+    pos 1.53185 -2.81604 1.41421
+    norm 0.707107 -1e-006 0.707107
+    materialIndex 12
+    pos 1.43711 -2.31604 1.31948
+    norm 0.612373 0.499999 0.612373
+    materialIndex 13
+    pos 0.831728 -2.31604 1.72398
+    norm 0.331414 0.499999 0.800104
+    materialIndex 25
+  }
+  poly {
+    numVertices 3
+    pos 0.882998 -2.81604 1.84776
+    norm 0.382683 -2e-006 0.92388
+    materialIndex 24
+    pos 1.53185 -2.81604 1.41421
+    norm 0.707107 -1e-006 0.707107
+    materialIndex 12
+    pos 0.831728 -2.31604 1.72398
+    norm 0.331414 0.499999 0.800104
+    materialIndex 25
+  }
+  poly {
+    numVertices 3
+    pos 1.43711 -2.31604 1.31948
+    norm 0.612373 0.499999 0.612373
+    materialIndex 13
+    pos 1.17829 -1.95001 1.06066
+    norm 0.353554 0.866025 0.353554
+    materialIndex 14
+    pos 0.691657 -1.95001 1.38582
+    norm 0.191342 0.866024 0.461941
+    materialIndex 26
+  }
+  poly {
+    numVertices 3
+    pos 0.831728 -2.31604 1.72398
+    norm 0.331414 0.499999 0.800104
+    materialIndex 25
+    pos 1.43711 -2.31604 1.31948
+    norm 0.612373 0.499999 0.612373
+    materialIndex 13
+    pos 0.691657 -1.95001 1.38582
+    norm 0.191342 0.866024 0.461941
+    materialIndex 26
+  }
+  poly {
+    numVertices 3
+    pos 1.17829 -1.95001 1.06066
+    norm 0.353554 0.866025 0.353554
+    materialIndex 14
+    pos 0.824739 -1.81604 0.707108
+    norm 1e-006 1 1e-006
+    materialIndex 15
+    pos 0.500315 -1.81604 0.923881
+    norm 1e-006 1 2e-006
+    materialIndex 27
+  }
+  poly {
+    numVertices 3
+    pos 0.691657 -1.95001 1.38582
+    norm 0.191342 0.866024 0.461941
+    materialIndex 26
+    pos 1.17829 -1.95001 1.06066
+    norm 0.353554 0.866025 0.353554
+    materialIndex 14
+    pos 0.500315 -1.81604 0.923881
+    norm 1e-006 1 2e-006
+    materialIndex 27
+  }
+  poly {
+    numVertices 3
+    pos 0.824739 -1.81604 0.707108
+    norm 1e-006 1 1e-006
+    materialIndex 15
+    pos 0.471185 -1.95001 0.353554
+    norm -0.353553 0.866026 -0.353553
+    materialIndex 16
+    pos 0.308973 -1.95001 0.461941
+    norm -0.191341 0.866026 -0.461938
+    materialIndex 28
+  }
+  poly {
+    numVertices 3
+    pos 0.500315 -1.81604 0.923881
+    norm 1e-006 1 2e-006
+    materialIndex 27
+    pos 0.824739 -1.81604 0.707108
+    norm 1e-006 1 1e-006
+    materialIndex 15
+    pos 0.308973 -1.95001 0.461941
+    norm -0.191341 0.866026 -0.461938
+    materialIndex 28
+  }
+  poly {
+    numVertices 3
+    pos 0.471185 -1.95001 0.353554
+    norm -0.353553 0.866026 -0.353553
+    materialIndex 16
+    pos 0.212366 -2.31604 0.094735
+    norm -0.612372 0.500001 -0.612372
+    materialIndex 17
+    pos 0.168901 -2.31603 0.123777
+    norm -0.331413 0.500002 -0.800102
+    materialIndex 29
+  }
+  poly {
+    numVertices 3
+    pos 0.308973 -1.95001 0.461941
+    norm -0.191341 0.866026 -0.461938
+    materialIndex 28
+    pos 0.471185 -1.95001 0.353554
+    norm -0.353553 0.866026 -0.353553
+    materialIndex 16
+    pos 0.168901 -2.31603 0.123777
+    norm -0.331413 0.500002 -0.800102
+    materialIndex 29
+  }
+  poly {
+    numVertices 3
+    pos 0.212366 -2.31604 0.094735
+    norm -0.612372 0.500001 -0.612372
+    materialIndex 17
+    pos 0.117631 -2.81604 0
+    norm -0.707107 1e-006 -0.707107
+    materialIndex 18
+    pos 0.117631 -2.81603 0
+    norm -0.382683 2e-006 -0.92388
+    materialIndex 30
+  }
+  poly {
+    numVertices 3
+    pos 0.168901 -2.31603 0.123777
+    norm -0.331413 0.500002 -0.800102
+    materialIndex 29
+    pos 0.212366 -2.31604 0.094735
+    norm -0.612372 0.500001 -0.612372
+    materialIndex 17
+    pos 0.117631 -2.81603 0
+    norm -0.382683 2e-006 -0.92388
+    materialIndex 30
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81604 0
+    norm -0.707107 1e-006 -0.707107
+    materialIndex 18
+    pos 0.212365 -3.31604 0.094734
+    norm -0.612373 -0.499999 -0.612373
+    materialIndex 19
+    pos 0.1689 -3.31603 0.123775
+    norm -0.331414 -0.499998 -0.800104
+    materialIndex 31
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81603 0
+    norm -0.382683 2e-006 -0.92388
+    materialIndex 30
+    pos 0.117631 -2.81604 0
+    norm -0.707107 1e-006 -0.707107
+    materialIndex 18
+    pos 0.1689 -3.31603 0.123775
+    norm -0.331414 -0.499998 -0.800104
+    materialIndex 31
+  }
+  poly {
+    numVertices 3
+    pos 0.212365 -3.31604 0.094734
+    norm -0.612373 -0.499999 -0.612373
+    materialIndex 19
+    pos 0.471184 -3.68206 0.353553
+    norm -0.353554 -0.866025 -0.353554
+    materialIndex 20
+    pos 0.308972 -3.68206 0.461939
+    norm -0.191342 -0.866025 -0.461941
+    materialIndex 32
+  }
+  poly {
+    numVertices 3
+    pos 0.1689 -3.31603 0.123775
+    norm -0.331414 -0.499998 -0.800104
+    materialIndex 31
+    pos 0.212365 -3.31604 0.094734
+    norm -0.612373 -0.499999 -0.612373
+    materialIndex 19
+    pos 0.308972 -3.68206 0.461939
+    norm -0.191342 -0.866025 -0.461941
+    materialIndex 32
+  }
+  poly {
+    numVertices 3
+    pos 0.471184 -3.68206 0.353553
+    norm -0.353554 -0.866025 -0.353554
+    materialIndex 20
+    pos 0.824737 -3.81604 0.707106
+    norm -1e-006 -1 -1e-006
+    materialIndex 21
+    pos 0.500314 -3.81604 0.923879
+    norm 0 -1 -1e-006
+    materialIndex 33
+  }
+  poly {
+    numVertices 3
+    pos 0.308972 -3.68206 0.461939
+    norm -0.191342 -0.866025 -0.461941
+    materialIndex 32
+    pos 0.471184 -3.68206 0.353553
+    norm -0.353554 -0.866025 -0.353554
+    materialIndex 20
+    pos 0.500314 -3.81604 0.923879
+    norm 0 -1 -1e-006
+    materialIndex 33
+  }
+  poly {
+    numVertices 3
+    pos 0.824737 -3.81604 0.707106
+    norm -1e-006 -1 -1e-006
+    materialIndex 21
+    pos 1.17829 -3.68206 1.06066
+    norm 0.353553 -0.866026 0.353553
+    materialIndex 22
+    pos 0.691656 -3.68206 1.38582
+    norm 0.191342 -0.866025 0.46194
+    materialIndex 34
+  }
+  poly {
+    numVertices 3
+    pos 0.500314 -3.81604 0.923879
+    norm 0 -1 -1e-006
+    materialIndex 33
+    pos 0.824737 -3.81604 0.707106
+    norm -1e-006 -1 -1e-006
+    materialIndex 21
+    pos 0.691656 -3.68206 1.38582
+    norm 0.191342 -0.866025 0.46194
+    materialIndex 34
+  }
+  poly {
+    numVertices 3
+    pos 1.17829 -3.68206 1.06066
+    norm 0.353553 -0.866026 0.353553
+    materialIndex 22
+    pos 1.43711 -3.31604 1.31948
+    norm 0.612372 -0.500001 0.612372
+    materialIndex 23
+    pos 0.831728 -3.31604 1.72398
+    norm 0.331414 -0.499999 0.800104
+    materialIndex 35
+  }
+  poly {
+    numVertices 3
+    pos 0.691656 -3.68206 1.38582
+    norm 0.191342 -0.866025 0.46194
+    materialIndex 34
+    pos 1.17829 -3.68206 1.06066
+    norm 0.353553 -0.866026 0.353553
+    materialIndex 22
+    pos 0.831728 -3.31604 1.72398
+    norm 0.331414 -0.499999 0.800104
+    materialIndex 35
+  }
+  poly {
+    numVertices 3
+    pos 0.831728 -3.31604 1.72398
+    norm 0.331414 -0.499999 0.800104
+    materialIndex 35
+    pos 0.882998 -2.81604 1.84776
+    norm 0.382683 -2e-006 0.92388
+    materialIndex 24
+    pos 0.117631 -2.81603 2
+    norm 0 2e-006 1
+    materialIndex 36
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.31603 1.86603
+    norm 0 -0.49999 0.866031
+    materialIndex 47
+    pos 0.831728 -3.31604 1.72398
+    norm 0.331414 -0.499999 0.800104
+    materialIndex 35
+    pos 0.117631 -2.81603 2
+    norm 0 2e-006 1
+    materialIndex 36
+  }
+  poly {
+    numVertices 3
+    pos 0.882998 -2.81604 1.84776
+    norm 0.382683 -2e-006 0.92388
+    materialIndex 24
+    pos 0.831728 -2.31604 1.72398
+    norm 0.331414 0.499999 0.800104
+    materialIndex 25
+    pos 0.117631 -2.31603 1.86602
+    norm 0 0.500002 0.866024
+    materialIndex 37
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81603 2
+    norm 0 2e-006 1
+    materialIndex 36
+    pos 0.882998 -2.81604 1.84776
+    norm 0.382683 -2e-006 0.92388
+    materialIndex 24
+    pos 0.117631 -2.31603 1.86602
+    norm 0 0.500002 0.866024
+    materialIndex 37
+  }
+  poly {
+    numVertices 3
+    pos 0.831728 -2.31604 1.72398
+    norm 0.331414 0.499999 0.800104
+    materialIndex 25
+    pos 0.691657 -1.95001 1.38582
+    norm 0.191342 0.866024 0.461941
+    materialIndex 26
+    pos 0.117631 -1.95001 1.5
+    norm 0 0.866027 0.499997
+    materialIndex 38
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.31603 1.86602
+    norm 0 0.500002 0.866024
+    materialIndex 37
+    pos 0.831728 -2.31604 1.72398
+    norm 0.331414 0.499999 0.800104
+    materialIndex 25
+    pos 0.117631 -1.95001 1.5
+    norm 0 0.866027 0.499997
+    materialIndex 38
+  }
+  poly {
+    numVertices 3
+    pos 0.691657 -1.95001 1.38582
+    norm 0.191342 0.866024 0.461941
+    materialIndex 26
+    pos 0.500315 -1.81604 0.923881
+    norm 1e-006 1 2e-006
+    materialIndex 27
+    pos 0.117631 -1.81604 0.999995
+    norm 0 1 -5e-006
+    materialIndex 39
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.95001 1.5
+    norm 0 0.866027 0.499997
+    materialIndex 38
+    pos 0.691657 -1.95001 1.38582
+    norm 0.191342 0.866024 0.461941
+    materialIndex 26
+    pos 0.117631 -1.81604 0.999995
+    norm 0 1 -5e-006
+    materialIndex 39
+  }
+  poly {
+    numVertices 3
+    pos 0.500315 -1.81604 0.923881
+    norm 1e-006 1 2e-006
+    materialIndex 27
+    pos 0.308973 -1.95001 0.461941
+    norm -0.191341 0.866026 -0.461938
+    materialIndex 28
+    pos 0.117631 -1.95001 0.499995
+    norm 0 0.866023 -0.500005
+    materialIndex 40
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.81604 0.999995
+    norm 0 1 -5e-006
+    materialIndex 39
+    pos 0.500315 -1.81604 0.923881
+    norm 1e-006 1 2e-006
+    materialIndex 27
+    pos 0.117631 -1.95001 0.499995
+    norm 0 0.866023 -0.500005
+    materialIndex 40
+  }
+  poly {
+    numVertices 3
+    pos 0.308973 -1.95001 0.461941
+    norm -0.191341 0.866026 -0.461938
+    materialIndex 28
+    pos 0.168901 -2.31603 0.123777
+    norm -0.331413 0.500002 -0.800102
+    materialIndex 29
+    pos 0.117631 -2.31604 0.133971
+    norm 0 0.499995 -0.866028
+    materialIndex 41
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.95001 0.499995
+    norm 0 0.866023 -0.500005
+    materialIndex 40
+    pos 0.308973 -1.95001 0.461941
+    norm -0.191341 0.866026 -0.461938
+    materialIndex 28
+    pos 0.117631 -2.31604 0.133971
+    norm 0 0.499995 -0.866028
+    materialIndex 41
+  }
+  poly {
+    numVertices 3
+    pos 0.168901 -2.31603 0.123777
+    norm -0.331413 0.500002 -0.800102
+    materialIndex 29
+    pos 0.117631 -2.81603 0
+    norm -0.382683 2e-006 -0.92388
+    materialIndex 30
+    pos 0.117631 -2.81604 0
+    norm 0 -7e-006 -1
+    materialIndex 42
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.31604 0.133971
+    norm 0 0.499995 -0.866028
+    materialIndex 41
+    pos 0.168901 -2.31603 0.123777
+    norm -0.331413 0.500002 -0.800102
+    materialIndex 29
+    pos 0.117631 -2.81604 0
+    norm 0 -7e-006 -1
+    materialIndex 42
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81603 0
+    norm -0.382683 2e-006 -0.92388
+    materialIndex 30
+    pos 0.1689 -3.31603 0.123775
+    norm -0.331414 -0.499998 -0.800104
+    materialIndex 31
+    pos 0.117631 -3.31604 0.133979
+    norm 0 -0.500007 -0.866021
+    materialIndex 43
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81604 0
+    norm 0 -7e-006 -1
+    materialIndex 42
+    pos 0.117631 -2.81603 0
+    norm -0.382683 2e-006 -0.92388
+    materialIndex 30
+    pos 0.117631 -3.31604 0.133979
+    norm 0 -0.500007 -0.866021
+    materialIndex 43
+  }
+  poly {
+    numVertices 3
+    pos 0.1689 -3.31603 0.123775
+    norm -0.331414 -0.499998 -0.800104
+    materialIndex 31
+    pos 0.308972 -3.68206 0.461939
+    norm -0.191342 -0.866025 -0.461941
+    materialIndex 32
+    pos 0.117631 -3.68207 0.500008
+    norm 0 -0.86603 -0.499992
+    materialIndex 44
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.31604 0.133979
+    norm 0 -0.500007 -0.866021
+    materialIndex 43
+    pos 0.1689 -3.31603 0.123775
+    norm -0.331414 -0.499998 -0.800104
+    materialIndex 31
+    pos 0.117631 -3.68207 0.500008
+    norm 0 -0.86603 -0.499992
+    materialIndex 44
+  }
+  poly {
+    numVertices 3
+    pos 0.308972 -3.68206 0.461939
+    norm -0.191342 -0.866025 -0.461941
+    materialIndex 32
+    pos 0.500314 -3.81604 0.923879
+    norm 0 -1 -1e-006
+    materialIndex 33
+    pos 0.117631 -3.81604 1.00001
+    norm 0 -1 1e-005
+    materialIndex 45
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.68207 0.500008
+    norm 0 -0.86603 -0.499992
+    materialIndex 44
+    pos 0.308972 -3.68206 0.461939
+    norm -0.191342 -0.866025 -0.461941
+    materialIndex 32
+    pos 0.117631 -3.81604 1.00001
+    norm 0 -1 1e-005
+    materialIndex 45
+  }
+  poly {
+    numVertices 3
+    pos 0.500314 -3.81604 0.923879
+    norm 0 -1 -1e-006
+    materialIndex 33
+    pos 0.691656 -3.68206 1.38582
+    norm 0.191342 -0.866025 0.46194
+    materialIndex 34
+    pos 0.117631 -3.68206 1.50001
+    norm 0 -0.86602 0.500009
+    materialIndex 46
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.81604 1.00001
+    norm 0 -1 1e-005
+    materialIndex 45
+    pos 0.500314 -3.81604 0.923879
+    norm 0 -1 -1e-006
+    materialIndex 33
+    pos 0.117631 -3.68206 1.50001
+    norm 0 -0.86602 0.500009
+    materialIndex 46
+  }
+  poly {
+    numVertices 3
+    pos 0.691656 -3.68206 1.38582
+    norm 0.191342 -0.866025 0.46194
+    materialIndex 34
+    pos 0.831728 -3.31604 1.72398
+    norm 0.331414 -0.499999 0.800104
+    materialIndex 35
+    pos 0.117631 -3.31603 1.86603
+    norm 0 -0.49999 0.866031
+    materialIndex 47
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.68206 1.50001
+    norm 0 -0.86602 0.500009
+    materialIndex 46
+    pos 0.691656 -3.68206 1.38582
+    norm 0.191342 -0.866025 0.46194
+    materialIndex 34
+    pos 0.117631 -3.31603 1.86603
+    norm 0 -0.49999 0.866031
+    materialIndex 47
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.31603 1.86603
+    norm 0 -0.49999 0.866031
+    materialIndex 47
+    pos 0.117631 -2.81603 2
+    norm 0 2e-006 1
+    materialIndex 36
+    pos -0.647736 -2.81602 1.84776
+    norm -0.382684 1.2e-005 0.92388
+    materialIndex 48
+  }
+  poly {
+    numVertices 3
+    pos -0.59647 -3.31602 1.72399
+    norm -0.331418 -0.499981 0.800113
+    materialIndex 59
+    pos 0.117631 -3.31603 1.86603
+    norm 0 -0.49999 0.866031
+    materialIndex 47
+    pos -0.647736 -2.81602 1.84776
+    norm -0.382684 1.2e-005 0.92388
+    materialIndex 48
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81603 2
+    norm 0 2e-006 1
+    materialIndex 36
+    pos 0.117631 -2.31603 1.86602
+    norm 0 0.500002 0.866024
+    materialIndex 37
+    pos -0.596464 -2.31603 1.72398
+    norm -0.331411 0.500011 0.800097
+    materialIndex 49
+  }
+  poly {
+    numVertices 3
+    pos -0.647736 -2.81602 1.84776
+    norm -0.382684 1.2e-005 0.92388
+    materialIndex 48
+    pos 0.117631 -2.81603 2
+    norm 0 2e-006 1
+    materialIndex 36
+    pos -0.596464 -2.31603 1.72398
+    norm -0.331411 0.500011 0.800097
+    materialIndex 49
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.31603 1.86602
+    norm 0 0.500002 0.866024
+    materialIndex 37
+    pos 0.117631 -1.95001 1.5
+    norm 0 0.866027 0.499997
+    materialIndex 38
+    pos -0.45639 -1.95 1.38581
+    norm -0.191337 0.866032 0.461929
+    materialIndex 50
+  }
+  poly {
+    numVertices 3
+    pos -0.596464 -2.31603 1.72398
+    norm -0.331411 0.500011 0.800097
+    materialIndex 49
+    pos 0.117631 -2.31603 1.86602
+    norm 0 0.500002 0.866024
+    materialIndex 37
+    pos -0.45639 -1.95 1.38581
+    norm -0.191337 0.866032 0.461929
+    materialIndex 50
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.95001 1.5
+    norm 0 0.866027 0.499997
+    materialIndex 38
+    pos 0.117631 -1.81604 0.999995
+    norm 0 1 -5e-006
+    materialIndex 39
+    pos -0.265047 -1.81604 0.923866
+    norm 6e-006 1 -1.4e-005
+    materialIndex 51
+  }
+  poly {
+    numVertices 3
+    pos -0.45639 -1.95 1.38581
+    norm -0.191337 0.866032 0.461929
+    materialIndex 50
+    pos 0.117631 -1.95001 1.5
+    norm 0 0.866027 0.499997
+    materialIndex 38
+    pos -0.265047 -1.81604 0.923866
+    norm 6e-006 1 -1.4e-005
+    materialIndex 51
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.81604 0.999995
+    norm 0 1 -5e-006
+    materialIndex 39
+    pos 0.117631 -1.95001 0.499995
+    norm 0 0.866023 -0.500005
+    materialIndex 40
+    pos -0.0737056 -1.95002 0.461927
+    norm 0.191347 0.866018 -0.461952
+    materialIndex 52
+  }
+  poly {
+    numVertices 3
+    pos -0.265047 -1.81604 0.923866
+    norm 6e-006 1 -1.4e-005
+    materialIndex 51
+    pos 0.117631 -1.81604 0.999995
+    norm 0 1 -5e-006
+    materialIndex 39
+    pos -0.0737056 -1.95002 0.461927
+    norm 0.191347 0.866018 -0.461952
+    materialIndex 52
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.95001 0.499995
+    norm 0 0.866023 -0.500005
+    materialIndex 40
+    pos 0.117631 -2.31604 0.133971
+    norm 0 0.499995 -0.866028
+    materialIndex 41
+    pos 0.0663644 -2.31605 0.123769
+    norm 0.331417 0.499986 -0.800111
+    materialIndex 53
+  }
+  poly {
+    numVertices 3
+    pos -0.0737056 -1.95002 0.461927
+    norm 0.191347 0.866018 -0.461952
+    materialIndex 52
+    pos 0.117631 -1.95001 0.499995
+    norm 0 0.866023 -0.500005
+    materialIndex 40
+    pos 0.0663644 -2.31605 0.123769
+    norm 0.331417 0.499986 -0.800111
+    materialIndex 53
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.31604 0.133971
+    norm 0 0.499995 -0.866028
+    materialIndex 41
+    pos 0.117631 -2.81604 0
+    norm 0 -7e-006 -1
+    materialIndex 42
+    pos 0.117631 -2.81605 0
+    norm 0.382684 -1.7e-005 -0.92388
+    materialIndex 54
+  }
+  poly {
+    numVertices 3
+    pos 0.0663644 -2.31605 0.123769
+    norm 0.331417 0.499986 -0.800111
+    materialIndex 53
+    pos 0.117631 -2.31604 0.133971
+    norm 0 0.499995 -0.866028
+    materialIndex 41
+    pos 0.117631 -2.81605 0
+    norm 0.382684 -1.7e-005 -0.92388
+    materialIndex 54
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81604 0
+    norm 0 -7e-006 -1
+    materialIndex 42
+    pos 0.117631 -3.31604 0.133979
+    norm 0 -0.500007 -0.866021
+    materialIndex 43
+    pos 0.0663584 -3.31605 0.123785
+    norm 0.33141 -0.500016 -0.800095
+    materialIndex 55
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81605 0
+    norm 0.382684 -1.7e-005 -0.92388
+    materialIndex 54
+    pos 0.117631 -2.81604 0
+    norm 0 -7e-006 -1
+    materialIndex 42
+    pos 0.0663584 -3.31605 0.123785
+    norm 0.33141 -0.500016 -0.800095
+    materialIndex 55
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.31604 0.133979
+    norm 0 -0.500007 -0.866021
+    materialIndex 43
+    pos 0.117631 -3.68207 0.500008
+    norm 0 -0.86603 -0.499992
+    materialIndex 44
+    pos -0.0737166 -3.68207 0.461955
+    norm 0.191335 -0.866035 -0.461925
+    materialIndex 56
+  }
+  poly {
+    numVertices 3
+    pos 0.0663584 -3.31605 0.123785
+    norm 0.33141 -0.500016 -0.800095
+    materialIndex 55
+    pos 0.117631 -3.31604 0.133979
+    norm 0 -0.500007 -0.866021
+    materialIndex 43
+    pos -0.0737166 -3.68207 0.461955
+    norm 0.191335 -0.866035 -0.461925
+    materialIndex 56
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.68207 0.500008
+    norm 0 -0.86603 -0.499992
+    materialIndex 44
+    pos 0.117631 -3.81604 1.00001
+    norm 0 -1 1e-005
+    materialIndex 45
+    pos -0.26506 -3.81604 0.923898
+    norm -8e-006 -1 1.8e-005
+    materialIndex 57
+  }
+  poly {
+    numVertices 3
+    pos -0.0737166 -3.68207 0.461955
+    norm 0.191335 -0.866035 -0.461925
+    materialIndex 56
+    pos 0.117631 -3.68207 0.500008
+    norm 0 -0.86603 -0.499992
+    materialIndex 44
+    pos -0.26506 -3.81604 0.923898
+    norm -8e-006 -1 1.8e-005
+    materialIndex 57
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.81604 1.00001
+    norm 0 -1 1e-005
+    materialIndex 45
+    pos 0.117631 -3.68206 1.50001
+    norm 0 -0.86602 0.500009
+    materialIndex 46
+    pos -0.456401 -3.68205 1.38584
+    norm -0.191349 -0.866015 0.461956
+    materialIndex 58
+  }
+  poly {
+    numVertices 3
+    pos -0.26506 -3.81604 0.923898
+    norm -8e-006 -1 1.8e-005
+    materialIndex 57
+    pos 0.117631 -3.81604 1.00001
+    norm 0 -1 1e-005
+    materialIndex 45
+    pos -0.456401 -3.68205 1.38584
+    norm -0.191349 -0.866015 0.461956
+    materialIndex 58
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.68206 1.50001
+    norm 0 -0.86602 0.500009
+    materialIndex 46
+    pos 0.117631 -3.31603 1.86603
+    norm 0 -0.49999 0.866031
+    materialIndex 47
+    pos -0.59647 -3.31602 1.72399
+    norm -0.331418 -0.499981 0.800113
+    materialIndex 59
+  }
+  poly {
+    numVertices 3
+    pos -0.456401 -3.68205 1.38584
+    norm -0.191349 -0.866015 0.461956
+    materialIndex 58
+    pos 0.117631 -3.68206 1.50001
+    norm 0 -0.86602 0.500009
+    materialIndex 46
+    pos -0.59647 -3.31602 1.72399
+    norm -0.331418 -0.499981 0.800113
+    materialIndex 59
+  }
+  poly {
+    numVertices 3
+    pos -0.59647 -3.31602 1.72399
+    norm -0.331418 -0.499981 0.800113
+    materialIndex 59
+    pos -0.647736 -2.81602 1.84776
+    norm -0.382684 1.2e-005 0.92388
+    materialIndex 48
+    pos -1.29658 -2.81601 1.41421
+    norm -0.707107 2.2e-005 0.707107
+    materialIndex 60
+  }
+  poly {
+    numVertices 3
+    pos -1.20185 -3.31603 1.31948
+    norm -0.612377 -0.499989 0.612377
+    materialIndex 71
+    pos -0.59647 -3.31602 1.72399
+    norm -0.331418 -0.499981 0.800113
+    materialIndex 59
+    pos -1.29658 -2.81601 1.41421
+    norm -0.707107 2.2e-005 0.707107
+    materialIndex 60
+  }
+  poly {
+    numVertices 3
+    pos -0.647736 -2.81602 1.84776
+    norm -0.382684 1.2e-005 0.92388
+    materialIndex 48
+    pos -0.596464 -2.31603 1.72398
+    norm -0.331411 0.500011 0.800097
+    materialIndex 49
+    pos -1.20184 -2.31602 1.31947
+    norm -0.612364 0.50002 0.612364
+    materialIndex 61
+  }
+  poly {
+    numVertices 3
+    pos -1.29658 -2.81601 1.41421
+    norm -0.707107 2.2e-005 0.707107
+    materialIndex 60
+    pos -0.647736 -2.81602 1.84776
+    norm -0.382684 1.2e-005 0.92388
+    materialIndex 48
+    pos -1.20184 -2.31602 1.31947
+    norm -0.612364 0.50002 0.612364
+    materialIndex 61
+  }
+  poly {
+    numVertices 3
+    pos -0.596464 -2.31603 1.72398
+    norm -0.331411 0.500011 0.800097
+    materialIndex 49
+    pos -0.45639 -1.95 1.38581
+    norm -0.191337 0.866032 0.461929
+    materialIndex 50
+    pos -0.943016 -1.95 1.06065
+    norm -0.35354 0.866036 0.35354
+    materialIndex 62
+  }
+  poly {
+    numVertices 3
+    pos -1.20184 -2.31602 1.31947
+    norm -0.612364 0.50002 0.612364
+    materialIndex 61
+    pos -0.596464 -2.31603 1.72398
+    norm -0.331411 0.500011 0.800097
+    materialIndex 49
+    pos -0.943016 -1.95 1.06065
+    norm -0.35354 0.866036 0.35354
+    materialIndex 62
+  }
+  poly {
+    numVertices 3
+    pos -0.45639 -1.95 1.38581
+    norm -0.191337 0.866032 0.461929
+    materialIndex 50
+    pos -0.265047 -1.81604 0.923866
+    norm 6e-006 1 -1.4e-005
+    materialIndex 51
+    pos -0.589461 -1.81604 0.707092
+    norm 1.5e-005 1 -1.5e-005
+    materialIndex 63
+  }
+  poly {
+    numVertices 3
+    pos -0.943016 -1.95 1.06065
+    norm -0.35354 0.866036 0.35354
+    materialIndex 62
+    pos -0.45639 -1.95 1.38581
+    norm -0.191337 0.866032 0.461929
+    materialIndex 50
+    pos -0.589461 -1.81604 0.707092
+    norm 1.5e-005 1 -1.5e-005
+    materialIndex 63
+  }
+  poly {
+    numVertices 3
+    pos -0.265047 -1.81604 0.923866
+    norm 6e-006 1 -1.4e-005
+    materialIndex 51
+    pos -0.0737056 -1.95002 0.461927
+    norm 0.191347 0.866018 -0.461952
+    materialIndex 52
+    pos -0.23591 -1.95002 0.353541
+    norm 0.353566 0.866015 -0.353566
+    materialIndex 64
+  }
+  poly {
+    numVertices 3
+    pos -0.589461 -1.81604 0.707092
+    norm 1.5e-005 1 -1.5e-005
+    materialIndex 63
+    pos -0.265047 -1.81604 0.923866
+    norm 6e-006 1 -1.4e-005
+    materialIndex 51
+    pos -0.23591 -1.95002 0.353541
+    norm 0.353566 0.866015 -0.353566
+    materialIndex 64
+  }
+  poly {
+    numVertices 3
+    pos -0.0737056 -1.95002 0.461927
+    norm 0.191347 0.866018 -0.461952
+    materialIndex 52
+    pos 0.0663644 -2.31605 0.123769
+    norm 0.331417 0.499986 -0.800111
+    materialIndex 53
+    pos 0.0229034 -2.31605 0.094728
+    norm 0.612379 0.499984 -0.612379
+    materialIndex 65
+  }
+  poly {
+    numVertices 3
+    pos -0.23591 -1.95002 0.353541
+    norm 0.353566 0.866015 -0.353566
+    materialIndex 64
+    pos -0.0737056 -1.95002 0.461927
+    norm 0.191347 0.866018 -0.461952
+    materialIndex 52
+    pos 0.0229034 -2.31605 0.094728
+    norm 0.612379 0.499984 -0.612379
+    materialIndex 65
+  }
+  poly {
+    numVertices 3
+    pos 0.0663644 -2.31605 0.123769
+    norm 0.331417 0.499986 -0.800111
+    materialIndex 53
+    pos 0.117631 -2.81605 0
+    norm 0.382684 -1.7e-005 -0.92388
+    materialIndex 54
+    pos 0.117631 -2.81605 0
+    norm 0.707107 -1.8e-005 -0.707107
+    materialIndex 66
+  }
+  poly {
+    numVertices 3
+    pos 0.0229034 -2.31605 0.094728
+    norm 0.612379 0.499984 -0.612379
+    materialIndex 65
+    pos 0.0663644 -2.31605 0.123769
+    norm 0.331417 0.499986 -0.800111
+    materialIndex 53
+    pos 0.117631 -2.81605 0
+    norm 0.707107 -1.8e-005 -0.707107
+    materialIndex 66
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81605 0
+    norm 0.382684 -1.7e-005 -0.92388
+    materialIndex 54
+    pos 0.0663584 -3.31605 0.123785
+    norm 0.33141 -0.500016 -0.800095
+    materialIndex 55
+    pos 0.0228914 -3.31605 0.09474
+    norm 0.612366 -0.500015 -0.612366
+    materialIndex 67
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81605 0
+    norm 0.707107 -1.8e-005 -0.707107
+    materialIndex 66
+    pos 0.117631 -2.81605 0
+    norm 0.382684 -1.7e-005 -0.92388
+    materialIndex 54
+    pos 0.0228914 -3.31605 0.09474
+    norm 0.612366 -0.500015 -0.612366
+    materialIndex 67
+  }
+  poly {
+    numVertices 3
+    pos 0.0663584 -3.31605 0.123785
+    norm 0.33141 -0.500016 -0.800095
+    materialIndex 55
+    pos -0.0737166 -3.68207 0.461955
+    norm 0.191335 -0.866035 -0.461925
+    materialIndex 56
+    pos -0.235932 -3.68207 0.353563
+    norm 0.353544 -0.866033 -0.353544
+    materialIndex 68
+  }
+  poly {
+    numVertices 3
+    pos 0.0228914 -3.31605 0.09474
+    norm 0.612366 -0.500015 -0.612366
+    materialIndex 67
+    pos 0.0663584 -3.31605 0.123785
+    norm 0.33141 -0.500016 -0.800095
+    materialIndex 55
+    pos -0.235932 -3.68207 0.353563
+    norm 0.353544 -0.866033 -0.353544
+    materialIndex 68
+  }
+  poly {
+    numVertices 3
+    pos -0.0737166 -3.68207 0.461955
+    norm 0.191335 -0.866035 -0.461925
+    materialIndex 56
+    pos -0.26506 -3.81604 0.923898
+    norm -8e-006 -1 1.8e-005
+    materialIndex 57
+    pos -0.589486 -3.81604 0.707117
+    norm -1e-005 -1 1e-005
+    materialIndex 69
+  }
+  poly {
+    numVertices 3
+    pos -0.235932 -3.68207 0.353563
+    norm 0.353544 -0.866033 -0.353544
+    materialIndex 68
+    pos -0.0737166 -3.68207 0.461955
+    norm 0.191335 -0.866035 -0.461925
+    materialIndex 56
+    pos -0.589486 -3.81604 0.707117
+    norm -1e-005 -1 1e-005
+    materialIndex 69
+  }
+  poly {
+    numVertices 3
+    pos -0.26506 -3.81604 0.923898
+    norm -8e-006 -1 1.8e-005
+    materialIndex 57
+    pos -0.456401 -3.68205 1.38584
+    norm -0.191349 -0.866015 0.461956
+    materialIndex 58
+    pos -0.943038 -3.68205 1.06067
+    norm -0.353562 -0.866019 0.353562
+    materialIndex 70
+  }
+  poly {
+    numVertices 3
+    pos -0.589486 -3.81604 0.707117
+    norm -1e-005 -1 1e-005
+    materialIndex 69
+    pos -0.26506 -3.81604 0.923898
+    norm -8e-006 -1 1.8e-005
+    materialIndex 57
+    pos -0.943038 -3.68205 1.06067
+    norm -0.353562 -0.866019 0.353562
+    materialIndex 70
+  }
+  poly {
+    numVertices 3
+    pos -0.456401 -3.68205 1.38584
+    norm -0.191349 -0.866015 0.461956
+    materialIndex 58
+    pos -0.59647 -3.31602 1.72399
+    norm -0.331418 -0.499981 0.800113
+    materialIndex 59
+    pos -1.20185 -3.31603 1.31948
+    norm -0.612377 -0.499989 0.612377
+    materialIndex 71
+  }
+  poly {
+    numVertices 3
+    pos -0.943038 -3.68205 1.06067
+    norm -0.353562 -0.866019 0.353562
+    materialIndex 70
+    pos -0.456401 -3.68205 1.38584
+    norm -0.191349 -0.866015 0.461956
+    materialIndex 58
+    pos -1.20185 -3.31603 1.31948
+    norm -0.612377 -0.499989 0.612377
+    materialIndex 71
+  }
+  poly {
+    numVertices 3
+    pos -1.20185 -3.31603 1.31948
+    norm -0.612377 -0.499989 0.612377
+    materialIndex 71
+    pos -1.29658 -2.81601 1.41421
+    norm -0.707107 2.2e-005 0.707107
+    materialIndex 60
+    pos -1.73013 -2.81602 0.765367
+    norm -0.92388 1.2e-005 0.382683
+    materialIndex 72
+  }
+  poly {
+    numVertices 3
+    pos -1.60635 -3.31604 0.714097
+    norm -0.800103 -0.5 0.331414
+    materialIndex 83
+    pos -1.20185 -3.31603 1.31948
+    norm -0.612377 -0.499989 0.612377
+    materialIndex 71
+    pos -1.73013 -2.81602 0.765367
+    norm -0.92388 1.2e-005 0.382683
+    materialIndex 72
+  }
+  poly {
+    numVertices 3
+    pos -1.29658 -2.81601 1.41421
+    norm -0.707107 2.2e-005 0.707107
+    materialIndex 60
+    pos -1.20184 -2.31602 1.31947
+    norm -0.612364 0.50002 0.612364
+    materialIndex 61
+    pos -1.60635 -2.31603 0.714095
+    norm -0.800098 0.500009 0.331412
+    materialIndex 73
+  }
+  poly {
+    numVertices 3
+    pos -1.73013 -2.81602 0.765367
+    norm -0.92388 1.2e-005 0.382683
+    materialIndex 72
+    pos -1.29658 -2.81601 1.41421
+    norm -0.707107 2.2e-005 0.707107
+    materialIndex 60
+    pos -1.60635 -2.31603 0.714095
+    norm -0.800098 0.500009 0.331412
+    materialIndex 73
+  }
+  poly {
+    numVertices 3
+    pos -1.20184 -2.31602 1.31947
+    norm -0.612364 0.50002 0.612364
+    materialIndex 61
+    pos -0.943016 -1.95 1.06065
+    norm -0.35354 0.866036 0.35354
+    materialIndex 62
+    pos -1.26818 -1.95001 0.574022
+    norm -0.461932 0.86603 0.191339
+    materialIndex 74
+  }
+  poly {
+    numVertices 3
+    pos -1.60635 -2.31603 0.714095
+    norm -0.800098 0.500009 0.331412
+    materialIndex 73
+    pos -1.20184 -2.31602 1.31947
+    norm -0.612364 0.50002 0.612364
+    materialIndex 61
+    pos -1.26818 -1.95001 0.574022
+    norm -0.461932 0.86603 0.191339
+    materialIndex 74
+  }
+  poly {
+    numVertices 3
+    pos -0.943016 -1.95 1.06065
+    norm -0.35354 0.866036 0.35354
+    materialIndex 62
+    pos -0.589461 -1.81604 0.707092
+    norm 1.5e-005 1 -1.5e-005
+    materialIndex 63
+    pos -0.806241 -1.81604 0.38268
+    norm 8e-006 1 -3e-006
+    materialIndex 75
+  }
+  poly {
+    numVertices 3
+    pos -1.26818 -1.95001 0.574022
+    norm -0.461932 0.86603 0.191339
+    materialIndex 74
+    pos -0.943016 -1.95 1.06065
+    norm -0.35354 0.866036 0.35354
+    materialIndex 62
+    pos -0.806241 -1.81604 0.38268
+    norm 8e-006 1 -3e-006
+    materialIndex 75
+  }
+  poly {
+    numVertices 3
+    pos -0.589461 -1.81604 0.707092
+    norm 1.5e-005 1 -1.5e-005
+    materialIndex 63
+    pos -0.23591 -1.95002 0.353541
+    norm 0.353566 0.866015 -0.353566
+    materialIndex 64
+    pos -0.344303 -1.95001 0.191339
+    norm 0.461946 0.866022 -0.191344
+    materialIndex 76
+  }
+  poly {
+    numVertices 3
+    pos -0.806241 -1.81604 0.38268
+    norm 8e-006 1 -3e-006
+    materialIndex 75
+    pos -0.589461 -1.81604 0.707092
+    norm 1.5e-005 1 -1.5e-005
+    materialIndex 63
+    pos -0.344303 -1.95001 0.191339
+    norm 0.461946 0.866022 -0.191344
+    materialIndex 76
+  }
+  poly {
+    numVertices 3
+    pos -0.23591 -1.95002 0.353541
+    norm 0.353566 0.866015 -0.353566
+    materialIndex 64
+    pos 0.0229034 -2.31605 0.094728
+    norm 0.612379 0.499984 -0.612379
+    materialIndex 65
+    pos -0.00614263 -2.31604 0.051269
+    norm 0.800106 0.499995 -0.331415
+    materialIndex 77
+  }
+  poly {
+    numVertices 3
+    pos -0.344303 -1.95001 0.191339
+    norm 0.461946 0.866022 -0.191344
+    materialIndex 76
+    pos -0.23591 -1.95002 0.353541
+    norm 0.353566 0.866015 -0.353566
+    materialIndex 64
+    pos -0.00614263 -2.31604 0.051269
+    norm 0.800106 0.499995 -0.331415
+    materialIndex 77
+  }
+  poly {
+    numVertices 3
+    pos 0.0229034 -2.31605 0.094728
+    norm 0.612379 0.499984 -0.612379
+    materialIndex 65
+    pos 0.117631 -2.81605 0
+    norm 0.707107 -1.8e-005 -0.707107
+    materialIndex 66
+    pos 0.117631 -2.81604 0
+    norm 0.92388 -5e-006 -0.382683
+    materialIndex 78
+  }
+  poly {
+    numVertices 3
+    pos -0.00614263 -2.31604 0.051269
+    norm 0.800106 0.499995 -0.331415
+    materialIndex 77
+    pos 0.0229034 -2.31605 0.094728
+    norm 0.612379 0.499984 -0.612379
+    materialIndex 65
+    pos 0.117631 -2.81604 0
+    norm 0.92388 -5e-006 -0.382683
+    materialIndex 78
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81605 0
+    norm 0.707107 -1.8e-005 -0.707107
+    materialIndex 66
+    pos 0.0228914 -3.31605 0.09474
+    norm 0.612366 -0.500015 -0.612366
+    materialIndex 67
+    pos -0.00614663 -3.31604 0.051271
+    norm 0.800101 -0.500004 -0.331413
+    materialIndex 79
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81604 0
+    norm 0.92388 -5e-006 -0.382683
+    materialIndex 78
+    pos 0.117631 -2.81605 0
+    norm 0.707107 -1.8e-005 -0.707107
+    materialIndex 66
+    pos -0.00614663 -3.31604 0.051271
+    norm 0.800101 -0.500004 -0.331413
+    materialIndex 79
+  }
+  poly {
+    numVertices 3
+    pos 0.0228914 -3.31605 0.09474
+    norm 0.612366 -0.500015 -0.612366
+    materialIndex 67
+    pos -0.235932 -3.68207 0.353563
+    norm 0.353544 -0.866033 -0.353544
+    materialIndex 68
+    pos -0.344311 -3.68206 0.191343
+    norm 0.461937 -0.866027 -0.191341
+    materialIndex 80
+  }
+  poly {
+    numVertices 3
+    pos -0.00614663 -3.31604 0.051271
+    norm 0.800101 -0.500004 -0.331413
+    materialIndex 79
+    pos 0.0228914 -3.31605 0.09474
+    norm 0.612366 -0.500015 -0.612366
+    materialIndex 67
+    pos -0.344311 -3.68206 0.191343
+    norm 0.461937 -0.866027 -0.191341
+    materialIndex 80
+  }
+  poly {
+    numVertices 3
+    pos -0.235932 -3.68207 0.353563
+    norm 0.353544 -0.866033 -0.353544
+    materialIndex 68
+    pos -0.589486 -3.81604 0.707117
+    norm -1e-005 -1 1e-005
+    materialIndex 69
+    pos -0.80625 -3.81604 0.382684
+    norm -2e-006 -1 1e-006
+    materialIndex 81
+  }
+  poly {
+    numVertices 3
+    pos -0.344311 -3.68206 0.191343
+    norm 0.461937 -0.866027 -0.191341
+    materialIndex 80
+    pos -0.235932 -3.68207 0.353563
+    norm 0.353544 -0.866033 -0.353544
+    materialIndex 68
+    pos -0.80625 -3.81604 0.382684
+    norm -2e-006 -1 1e-006
+    materialIndex 81
+  }
+  poly {
+    numVertices 3
+    pos -0.589486 -3.81604 0.707117
+    norm -1e-005 -1 1e-005
+    materialIndex 69
+    pos -0.943038 -3.68205 1.06067
+    norm -0.353562 -0.866019 0.353562
+    materialIndex 70
+    pos -1.26819 -3.68206 0.574026
+    norm -0.461941 -0.866025 0.191342
+    materialIndex 82
+  }
+  poly {
+    numVertices 3
+    pos -0.80625 -3.81604 0.382684
+    norm -2e-006 -1 1e-006
+    materialIndex 81
+    pos -0.589486 -3.81604 0.707117
+    norm -1e-005 -1 1e-005
+    materialIndex 69
+    pos -1.26819 -3.68206 0.574026
+    norm -0.461941 -0.866025 0.191342
+    materialIndex 82
+  }
+  poly {
+    numVertices 3
+    pos -0.943038 -3.68205 1.06067
+    norm -0.353562 -0.866019 0.353562
+    materialIndex 70
+    pos -1.20185 -3.31603 1.31948
+    norm -0.612377 -0.499989 0.612377
+    materialIndex 71
+    pos -1.60635 -3.31604 0.714097
+    norm -0.800103 -0.5 0.331414
+    materialIndex 83
+  }
+  poly {
+    numVertices 3
+    pos -1.26819 -3.68206 0.574026
+    norm -0.461941 -0.866025 0.191342
+    materialIndex 82
+    pos -0.943038 -3.68205 1.06067
+    norm -0.353562 -0.866019 0.353562
+    materialIndex 70
+    pos -1.60635 -3.31604 0.714097
+    norm -0.800103 -0.5 0.331414
+    materialIndex 83
+  }
+  poly {
+    numVertices 3
+    pos -1.60635 -3.31604 0.714097
+    norm -0.800103 -0.5 0.331414
+    materialIndex 83
+    pos -1.73013 -2.81602 0.765367
+    norm -0.92388 1.2e-005 0.382683
+    materialIndex 72
+    pos -1.88237 -2.81604 0
+    norm -1 -1e-006 0
+    materialIndex 84
+  }
+  poly {
+    numVertices 3
+    pos -1.74839 -3.31605 0
+    norm -0.866019 -0.500011 0
+    materialIndex 95
+    pos -1.60635 -3.31604 0.714097
+    norm -0.800103 -0.5 0.331414
+    materialIndex 83
+    pos -1.88237 -2.81604 0
+    norm -1 -1e-006 0
+    materialIndex 84
+  }
+  poly {
+    numVertices 3
+    pos -1.73013 -2.81602 0.765367
+    norm -0.92388 1.2e-005 0.382683
+    materialIndex 72
+    pos -1.60635 -2.31603 0.714095
+    norm -0.800098 0.500009 0.331412
+    materialIndex 73
+    pos -1.7484 -2.31604 0
+    norm -0.866027 0.499998 0
+    materialIndex 85
+  }
+  poly {
+    numVertices 3
+    pos -1.88237 -2.81604 0
+    norm -1 -1e-006 0
+    materialIndex 84
+    pos -1.73013 -2.81602 0.765367
+    norm -0.92388 1.2e-005 0.382683
+    materialIndex 72
+    pos -1.7484 -2.31604 0
+    norm -0.866027 0.499998 0
+    materialIndex 85
+  }
+  poly {
+    numVertices 3
+    pos -1.60635 -2.31603 0.714095
+    norm -0.800098 0.500009 0.331412
+    materialIndex 73
+    pos -1.26818 -1.95001 0.574022
+    norm -0.461932 0.86603 0.191339
+    materialIndex 74
+    pos -1.38237 -1.95001 0
+    norm -0.500003 0.866024 0
+    materialIndex 86
+  }
+  poly {
+    numVertices 3
+    pos -1.7484 -2.31604 0
+    norm -0.866027 0.499998 0
+    materialIndex 85
+    pos -1.60635 -2.31603 0.714095
+    norm -0.800098 0.500009 0.331412
+    materialIndex 73
+    pos -1.38237 -1.95001 0
+    norm -0.500003 0.866024 0
+    materialIndex 86
+  }
+  poly {
+    numVertices 3
+    pos -1.26818 -1.95001 0.574022
+    norm -0.461932 0.86603 0.191339
+    materialIndex 74
+    pos -0.806241 -1.81604 0.38268
+    norm 8e-006 1 -3e-006
+    materialIndex 75
+    pos -0.882373 -1.81604 0
+    norm -4e-006 1 0
+    materialIndex 87
+  }
+  poly {
+    numVertices 3
+    pos -1.38237 -1.95001 0
+    norm -0.500003 0.866024 0
+    materialIndex 86
+    pos -1.26818 -1.95001 0.574022
+    norm -0.461932 0.86603 0.191339
+    materialIndex 74
+    pos -0.882373 -1.81604 0
+    norm -4e-006 1 0
+    materialIndex 87
+  }
+  poly {
+    numVertices 3
+    pos -0.806241 -1.81604 0.38268
+    norm 8e-006 1 -3e-006
+    materialIndex 75
+    pos -0.344303 -1.95001 0.191339
+    norm 0.461946 0.866022 -0.191344
+    materialIndex 76
+    pos -0.382374 -1.95001 0
+    norm 0.499995 0.866028 0
+    materialIndex 88
+  }
+  poly {
+    numVertices 3
+    pos -0.882373 -1.81604 0
+    norm -4e-006 1 0
+    materialIndex 87
+    pos -0.806241 -1.81604 0.38268
+    norm 8e-006 1 -3e-006
+    materialIndex 75
+    pos -0.382374 -1.95001 0
+    norm 0.499995 0.866028 0
+    materialIndex 88
+  }
+  poly {
+    numVertices 3
+    pos -0.344303 -1.95001 0.191339
+    norm 0.461946 0.866022 -0.191344
+    materialIndex 76
+    pos -0.00614263 -2.31604 0.051269
+    norm 0.800106 0.499995 -0.331415
+    materialIndex 77
+    pos -0.0163466 -2.31603 0
+    norm 0.866022 0.500006 0
+    materialIndex 89
+  }
+  poly {
+    numVertices 3
+    pos -0.382374 -1.95001 0
+    norm 0.499995 0.866028 0
+    materialIndex 88
+    pos -0.344303 -1.95001 0.191339
+    norm 0.461946 0.866022 -0.191344
+    materialIndex 76
+    pos -0.0163466 -2.31603 0
+    norm 0.866022 0.500006 0
+    materialIndex 89
+  }
+  poly {
+    numVertices 3
+    pos -0.00614263 -2.31604 0.051269
+    norm 0.800106 0.499995 -0.331415
+    materialIndex 77
+    pos 0.117631 -2.81604 0
+    norm 0.92388 -5e-006 -0.382683
+    materialIndex 78
+    pos 0.117631 -2.81603 0
+    norm 1 8e-006 0
+    materialIndex 90
+  }
+  poly {
+    numVertices 3
+    pos -0.0163466 -2.31603 0
+    norm 0.866022 0.500006 0
+    materialIndex 89
+    pos -0.00614263 -2.31604 0.051269
+    norm 0.800106 0.499995 -0.331415
+    materialIndex 77
+    pos 0.117631 -2.81603 0
+    norm 1 8e-006 0
+    materialIndex 90
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81604 0
+    norm 0.92388 -5e-006 -0.382683
+    materialIndex 78
+    pos -0.00614663 -3.31604 0.051271
+    norm 0.800101 -0.500004 -0.331413
+    materialIndex 79
+    pos -0.0163386 -3.31603 0
+    norm 0.86603 -0.499993 0
+    materialIndex 91
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81603 0
+    norm 1 8e-006 0
+    materialIndex 90
+    pos 0.117631 -2.81604 0
+    norm 0.92388 -5e-006 -0.382683
+    materialIndex 78
+    pos -0.0163386 -3.31603 0
+    norm 0.86603 -0.499993 0
+    materialIndex 91
+  }
+  poly {
+    numVertices 3
+    pos -0.00614663 -3.31604 0.051271
+    norm 0.800101 -0.500004 -0.331413
+    materialIndex 79
+    pos -0.344311 -3.68206 0.191343
+    norm 0.461937 -0.866027 -0.191341
+    materialIndex 80
+    pos -0.382361 -3.68206 0
+    norm 0.500008 -0.866021 0
+    materialIndex 92
+  }
+  poly {
+    numVertices 3
+    pos -0.0163386 -3.31603 0
+    norm 0.86603 -0.499993 0
+    materialIndex 91
+    pos -0.00614663 -3.31604 0.051271
+    norm 0.800101 -0.500004 -0.331413
+    materialIndex 79
+    pos -0.382361 -3.68206 0
+    norm 0.500008 -0.866021 0
+    materialIndex 92
+  }
+  poly {
+    numVertices 3
+    pos -0.344311 -3.68206 0.191343
+    norm 0.461937 -0.866027 -0.191341
+    materialIndex 80
+    pos -0.80625 -3.81604 0.382684
+    norm -2e-006 -1 1e-006
+    materialIndex 81
+    pos -0.882358 -3.81604 0
+    norm 1.1e-005 -1 0
+    materialIndex 93
+  }
+  poly {
+    numVertices 3
+    pos -0.382361 -3.68206 0
+    norm 0.500008 -0.866021 0
+    materialIndex 92
+    pos -0.344311 -3.68206 0.191343
+    norm 0.461937 -0.866027 -0.191341
+    materialIndex 80
+    pos -0.882358 -3.81604 0
+    norm 1.1e-005 -1 0
+    materialIndex 93
+  }
+  poly {
+    numVertices 3
+    pos -0.80625 -3.81604 0.382684
+    norm -2e-006 -1 1e-006
+    materialIndex 81
+    pos -1.26819 -3.68206 0.574026
+    norm -0.461941 -0.866025 0.191342
+    materialIndex 82
+    pos -1.38236 -3.68207 0
+    norm -0.49999 -0.866031 0
+    materialIndex 94
+  }
+  poly {
+    numVertices 3
+    pos -0.882358 -3.81604 0
+    norm 1.1e-005 -1 0
+    materialIndex 93
+    pos -0.80625 -3.81604 0.382684
+    norm -2e-006 -1 1e-006
+    materialIndex 81
+    pos -1.38236 -3.68207 0
+    norm -0.49999 -0.866031 0
+    materialIndex 94
+  }
+  poly {
+    numVertices 3
+    pos -1.26819 -3.68206 0.574026
+    norm -0.461941 -0.866025 0.191342
+    materialIndex 82
+    pos -1.60635 -3.31604 0.714097
+    norm -0.800103 -0.5 0.331414
+    materialIndex 83
+    pos -1.74839 -3.31605 0
+    norm -0.866019 -0.500011 0
+    materialIndex 95
+  }
+  poly {
+    numVertices 3
+    pos -1.38236 -3.68207 0
+    norm -0.49999 -0.866031 0
+    materialIndex 94
+    pos -1.26819 -3.68206 0.574026
+    norm -0.461941 -0.866025 0.191342
+    materialIndex 82
+    pos -1.74839 -3.31605 0
+    norm -0.866019 -0.500011 0
+    materialIndex 95
+  }
+  poly {
+    numVertices 3
+    pos -1.74839 -3.31605 0
+    norm -0.866019 -0.500011 0
+    materialIndex 95
+    pos -1.88237 -2.81604 0
+    norm -1 -1e-006 0
+    materialIndex 84
+    pos -1.73013 -2.81605 -0.765366
+    norm -0.92388 -1.4e-005 -0.382683
+    materialIndex 96
+  }
+  poly {
+    numVertices 3
+    pos -1.60634 -3.31606 -0.714092
+    norm -0.800091 -0.500022 -0.331409
+    materialIndex 107
+    pos -1.74839 -3.31605 0
+    norm -0.866019 -0.500011 0
+    materialIndex 95
+    pos -1.73013 -2.81605 -0.765366
+    norm -0.92388 -1.4e-005 -0.382683
+    materialIndex 96
+  }
+  poly {
+    numVertices 3
+    pos -1.88237 -2.81604 0
+    norm -1 -1e-006 0
+    materialIndex 84
+    pos -1.7484 -2.31604 0
+    norm -0.866027 0.499998 0
+    materialIndex 85
+    pos -1.60636 -2.31605 -0.714099
+    norm -0.80011 0.499987 -0.331416
+    materialIndex 97
+  }
+  poly {
+    numVertices 3
+    pos -1.73013 -2.81605 -0.765366
+    norm -0.92388 -1.4e-005 -0.382683
+    materialIndex 96
+    pos -1.88237 -2.81604 0
+    norm -1 -1e-006 0
+    materialIndex 84
+    pos -1.60636 -2.31605 -0.714099
+    norm -0.80011 0.499987 -0.331416
+    materialIndex 97
+  }
+  poly {
+    numVertices 3
+    pos -1.7484 -2.31604 0
+    norm -0.866027 0.499998 0
+    materialIndex 85
+    pos -1.38237 -1.95001 0
+    norm -0.500003 0.866024 0
+    materialIndex 86
+    pos -1.2682 -1.95002 -0.57403
+    norm -0.461953 0.866017 -0.191347
+    materialIndex 98
+  }
+  poly {
+    numVertices 3
+    pos -1.60636 -2.31605 -0.714099
+    norm -0.80011 0.499987 -0.331416
+    materialIndex 97
+    pos -1.7484 -2.31604 0
+    norm -0.866027 0.499998 0
+    materialIndex 85
+    pos -1.2682 -1.95002 -0.57403
+    norm -0.461953 0.866017 -0.191347
+    materialIndex 98
+  }
+  poly {
+    numVertices 3
+    pos -1.38237 -1.95001 0
+    norm -0.500003 0.866024 0
+    materialIndex 86
+    pos -0.882373 -1.81604 0
+    norm -4e-006 1 0
+    materialIndex 87
+    pos -0.806264 -1.81604 -0.38269
+    norm -1.6e-005 1 -7e-006
+    materialIndex 99
+  }
+  poly {
+    numVertices 3
+    pos -1.2682 -1.95002 -0.57403
+    norm -0.461953 0.866017 -0.191347
+    materialIndex 98
+    pos -1.38237 -1.95001 0
+    norm -0.500003 0.866024 0
+    materialIndex 86
+    pos -0.806264 -1.81604 -0.38269
+    norm -1.6e-005 1 -7e-006
+    materialIndex 99
+  }
+  poly {
+    numVertices 3
+    pos -0.882373 -1.81604 0
+    norm -4e-006 1 0
+    materialIndex 87
+    pos -0.382374 -1.95001 0
+    norm 0.499995 0.866028 0
+    materialIndex 88
+    pos -0.344323 -1.95 -0.191348
+    norm 0.461925 0.866034 0.191336
+    materialIndex 100
+  }
+  poly {
+    numVertices 3
+    pos -0.806264 -1.81604 -0.38269
+    norm -1.6e-005 1 -7e-006
+    materialIndex 99
+    pos -0.882373 -1.81604 0
+    norm -4e-006 1 0
+    materialIndex 87
+    pos -0.344323 -1.95 -0.191348
+    norm 0.461925 0.866034 0.191336
+    materialIndex 100
+  }
+  poly {
+    numVertices 3
+    pos -0.382374 -1.95001 0
+    norm 0.499995 0.866028 0
+    materialIndex 88
+    pos -0.0163466 -2.31603 0
+    norm 0.866022 0.500006 0
+    materialIndex 89
+    pos -0.00615363 -2.31602 -0.051273
+    norm 0.800094 0.500017 0.33141
+    materialIndex 101
+  }
+  poly {
+    numVertices 3
+    pos -0.344323 -1.95 -0.191348
+    norm 0.461925 0.866034 0.191336
+    materialIndex 100
+    pos -0.382374 -1.95001 0
+    norm 0.499995 0.866028 0
+    materialIndex 88
+    pos -0.00615363 -2.31602 -0.051273
+    norm 0.800094 0.500017 0.33141
+    materialIndex 101
+  }
+  poly {
+    numVertices 3
+    pos -0.0163466 -2.31603 0
+    norm 0.866022 0.500006 0
+    materialIndex 89
+    pos 0.117631 -2.81603 0
+    norm 1 8e-006 0
+    materialIndex 90
+    pos 0.117631 -2.81602 0
+    norm 0.92388 2e-005 0.382683
+    materialIndex 102
+  }
+  poly {
+    numVertices 3
+    pos -0.00615363 -2.31602 -0.051273
+    norm 0.800094 0.500017 0.33141
+    materialIndex 101
+    pos -0.0163466 -2.31603 0
+    norm 0.866022 0.500006 0
+    materialIndex 89
+    pos 0.117631 -2.81602 0
+    norm 0.92388 2e-005 0.382683
+    materialIndex 102
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81603 0
+    norm 1 8e-006 0
+    materialIndex 90
+    pos -0.0163386 -3.31603 0
+    norm 0.86603 -0.499993 0
+    materialIndex 91
+    pos -0.00613564 -3.31602 -0.051266
+    norm 0.800113 -0.499982 0.331417
+    materialIndex 103
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81602 0
+    norm 0.92388 2e-005 0.382683
+    materialIndex 102
+    pos 0.117631 -2.81603 0
+    norm 1 8e-006 0
+    materialIndex 90
+    pos -0.00613564 -3.31602 -0.051266
+    norm 0.800113 -0.499982 0.331417
+    materialIndex 103
+  }
+  poly {
+    numVertices 3
+    pos -0.0163386 -3.31603 0
+    norm 0.86603 -0.499993 0
+    materialIndex 91
+    pos -0.382361 -3.68206 0
+    norm 0.500008 -0.866021 0
+    materialIndex 92
+    pos -0.344291 -3.68205 -0.191334
+    norm 0.461958 -0.866014 0.191349
+    materialIndex 104
+  }
+  poly {
+    numVertices 3
+    pos -0.00613564 -3.31602 -0.051266
+    norm 0.800113 -0.499982 0.331417
+    materialIndex 103
+    pos -0.0163386 -3.31603 0
+    norm 0.86603 -0.499993 0
+    materialIndex 91
+    pos -0.344291 -3.68205 -0.191334
+    norm 0.461958 -0.866014 0.191349
+    materialIndex 104
+  }
+  poly {
+    numVertices 3
+    pos -0.382361 -3.68206 0
+    norm 0.500008 -0.866021 0
+    materialIndex 92
+    pos -0.882358 -3.81604 0
+    norm 1.1e-005 -1 0
+    materialIndex 93
+    pos -0.806227 -3.81604 -0.382674
+    norm 2.2e-005 -1 9e-006
+    materialIndex 105
+  }
+  poly {
+    numVertices 3
+    pos -0.344291 -3.68205 -0.191334
+    norm 0.461958 -0.866014 0.191349
+    materialIndex 104
+    pos -0.382361 -3.68206 0
+    norm 0.500008 -0.866021 0
+    materialIndex 92
+    pos -0.806227 -3.81604 -0.382674
+    norm 2.2e-005 -1 9e-006
+    materialIndex 105
+  }
+  poly {
+    numVertices 3
+    pos -0.882358 -3.81604 0
+    norm 1.1e-005 -1 0
+    materialIndex 93
+    pos -1.38236 -3.68207 0
+    norm -0.49999 -0.866031 0
+    materialIndex 94
+    pos -1.26817 -3.68207 -0.574017
+    norm -0.46192 -0.866038 -0.191334
+    materialIndex 106
+  }
+  poly {
+    numVertices 3
+    pos -0.806227 -3.81604 -0.382674
+    norm 2.2e-005 -1 9e-006
+    materialIndex 105
+    pos -0.882358 -3.81604 0
+    norm 1.1e-005 -1 0
+    materialIndex 93
+    pos -1.26817 -3.68207 -0.574017
+    norm -0.46192 -0.866038 -0.191334
+    materialIndex 106
+  }
+  poly {
+    numVertices 3
+    pos -1.38236 -3.68207 0
+    norm -0.49999 -0.866031 0
+    materialIndex 94
+    pos -1.74839 -3.31605 0
+    norm -0.866019 -0.500011 0
+    materialIndex 95
+    pos -1.60634 -3.31606 -0.714092
+    norm -0.800091 -0.500022 -0.331409
+    materialIndex 107
+  }
+  poly {
+    numVertices 3
+    pos -1.26817 -3.68207 -0.574017
+    norm -0.46192 -0.866038 -0.191334
+    materialIndex 106
+    pos -1.38236 -3.68207 0
+    norm -0.49999 -0.866031 0
+    materialIndex 94
+    pos -1.60634 -3.31606 -0.714092
+    norm -0.800091 -0.500022 -0.331409
+    materialIndex 107
+  }
+  poly {
+    numVertices 3
+    pos -1.60634 -3.31606 -0.714092
+    norm -0.800091 -0.500022 -0.331409
+    materialIndex 107
+    pos -1.73013 -2.81605 -0.765366
+    norm -0.92388 -1.4e-005 -0.382683
+    materialIndex 96
+    pos -1.29658 -2.81606 -1.41421
+    norm -0.707107 -2.7e-005 -0.707107
+    materialIndex 108
+  }
+  poly {
+    numVertices 3
+    pos -1.20183 -3.31607 -1.31947
+    norm -0.612359 -0.500033 -0.612359
+    materialIndex 119
+    pos -1.60634 -3.31606 -0.714092
+    norm -0.800091 -0.500022 -0.331409
+    materialIndex 107
+    pos -1.29658 -2.81606 -1.41421
+    norm -0.707107 -2.7e-005 -0.707107
+    materialIndex 108
+  }
+  poly {
+    numVertices 3
+    pos -1.73013 -2.81605 -0.765366
+    norm -0.92388 -1.4e-005 -0.382683
+    materialIndex 96
+    pos -1.60636 -2.31605 -0.714099
+    norm -0.80011 0.499987 -0.331416
+    materialIndex 97
+    pos -1.20186 -2.31606 -1.31949
+    norm -0.612382 0.499976 -0.612382
+    materialIndex 109
+  }
+  poly {
+    numVertices 3
+    pos -1.29658 -2.81606 -1.41421
+    norm -0.707107 -2.7e-005 -0.707107
+    materialIndex 108
+    pos -1.73013 -2.81605 -0.765366
+    norm -0.92388 -1.4e-005 -0.382683
+    materialIndex 96
+    pos -1.20186 -2.31606 -1.31949
+    norm -0.612382 0.499976 -0.612382
+    materialIndex 109
+  }
+  poly {
+    numVertices 3
+    pos -1.60636 -2.31605 -0.714099
+    norm -0.80011 0.499987 -0.331416
+    materialIndex 97
+    pos -1.2682 -1.95002 -0.57403
+    norm -0.461953 0.866017 -0.191347
+    materialIndex 98
+    pos -0.943047 -1.95002 -1.06068
+    norm -0.353571 0.866011 -0.353571
+    materialIndex 110
+  }
+  poly {
+    numVertices 3
+    pos -1.20186 -2.31606 -1.31949
+    norm -0.612382 0.499976 -0.612382
+    materialIndex 109
+    pos -1.60636 -2.31605 -0.714099
+    norm -0.80011 0.499987 -0.331416
+    materialIndex 97
+    pos -0.943047 -1.95002 -1.06068
+    norm -0.353571 0.866011 -0.353571
+    materialIndex 110
+  }
+  poly {
+    numVertices 3
+    pos -1.2682 -1.95002 -0.57403
+    norm -0.461953 0.866017 -0.191347
+    materialIndex 98
+    pos -0.806264 -1.81604 -0.38269
+    norm -1.6e-005 1 -7e-006
+    materialIndex 99
+    pos -0.589497 -1.81604 -0.707128
+    norm -2.1e-005 1 -2.1e-005
+    materialIndex 111
+  }
+  poly {
+    numVertices 3
+    pos -0.943047 -1.95002 -1.06068
+    norm -0.353571 0.866011 -0.353571
+    materialIndex 110
+    pos -1.2682 -1.95002 -0.57403
+    norm -0.461953 0.866017 -0.191347
+    materialIndex 98
+    pos -0.589497 -1.81604 -0.707128
+    norm -2.1e-005 1 -2.1e-005
+    materialIndex 111
+  }
+  poly {
+    numVertices 3
+    pos -0.806264 -1.81604 -0.38269
+    norm -1.6e-005 1 -7e-006
+    materialIndex 99
+    pos -0.344323 -1.95 -0.191348
+    norm 0.461925 0.866034 0.191336
+    materialIndex 100
+    pos -0.235941 -1.95 -0.353572
+    norm 0.353535 0.866041 0.353534
+    materialIndex 112
+  }
+  poly {
+    numVertices 3
+    pos -0.589497 -1.81604 -0.707128
+    norm -2.1e-005 1 -2.1e-005
+    materialIndex 111
+    pos -0.806264 -1.81604 -0.38269
+    norm -1.6e-005 1 -7e-006
+    materialIndex 99
+    pos -0.235941 -1.95 -0.353572
+    norm 0.353535 0.866041 0.353534
+    materialIndex 112
+  }
+  poly {
+    numVertices 3
+    pos -0.344323 -1.95 -0.191348
+    norm 0.461925 0.866034 0.191336
+    materialIndex 100
+    pos -0.00615363 -2.31602 -0.051273
+    norm 0.800094 0.500017 0.33141
+    materialIndex 101
+    pos 0.0228854 -2.31601 -0.094746
+    norm 0.612361 0.500028 0.612361
+    materialIndex 113
+  }
+  poly {
+    numVertices 3
+    pos -0.235941 -1.95 -0.353572
+    norm 0.353535 0.866041 0.353534
+    materialIndex 112
+    pos -0.344323 -1.95 -0.191348
+    norm 0.461925 0.866034 0.191336
+    materialIndex 100
+    pos 0.0228854 -2.31601 -0.094746
+    norm 0.612361 0.500028 0.612361
+    materialIndex 113
+  }
+  poly {
+    numVertices 3
+    pos -0.00615363 -2.31602 -0.051273
+    norm 0.800094 0.500017 0.33141
+    materialIndex 101
+    pos 0.117631 -2.81602 0
+    norm 0.92388 2e-005 0.382683
+    materialIndex 102
+    pos 0.117631 -2.816 0
+    norm 0.707107 3.3e-005 0.707107
+    materialIndex 114
+  }
+  poly {
+    numVertices 3
+    pos 0.0228854 -2.31601 -0.094746
+    norm 0.612361 0.500028 0.612361
+    materialIndex 113
+    pos -0.00615363 -2.31602 -0.051273
+    norm 0.800094 0.500017 0.33141
+    materialIndex 101
+    pos 0.117631 -2.816 0
+    norm 0.707107 3.3e-005 0.707107
+    materialIndex 114
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81602 0
+    norm 0.92388 2e-005 0.382683
+    materialIndex 102
+    pos -0.00613564 -3.31602 -0.051266
+    norm 0.800113 -0.499982 0.331417
+    materialIndex 103
+    pos 0.0229094 -3.31601 -0.094722
+    norm 0.612385 -0.499971 0.612384
+    materialIndex 115
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.816 0
+    norm 0.707107 3.3e-005 0.707107
+    materialIndex 114
+    pos 0.117631 -2.81602 0
+    norm 0.92388 2e-005 0.382683
+    materialIndex 102
+    pos 0.0229094 -3.31601 -0.094722
+    norm 0.612385 -0.499971 0.612384
+    materialIndex 115
+  }
+  poly {
+    numVertices 3
+    pos -0.00613564 -3.31602 -0.051266
+    norm 0.800113 -0.499982 0.331417
+    materialIndex 103
+    pos -0.344291 -3.68205 -0.191334
+    norm 0.461958 -0.866014 0.191349
+    materialIndex 104
+    pos -0.235901 -3.68204 -0.353532
+    norm 0.353575 -0.866008 0.353575
+    materialIndex 116
+  }
+  poly {
+    numVertices 3
+    pos 0.0229094 -3.31601 -0.094722
+    norm 0.612385 -0.499971 0.612384
+    materialIndex 115
+    pos -0.00613564 -3.31602 -0.051266
+    norm 0.800113 -0.499982 0.331417
+    materialIndex 103
+    pos -0.235901 -3.68204 -0.353532
+    norm 0.353575 -0.866008 0.353575
+    materialIndex 116
+  }
+  poly {
+    numVertices 3
+    pos -0.344291 -3.68205 -0.191334
+    norm 0.461958 -0.866014 0.191349
+    materialIndex 104
+    pos -0.806227 -3.81604 -0.382674
+    norm 2.2e-005 -1 9e-006
+    materialIndex 105
+    pos -0.58945 -3.81604 -0.707081
+    norm 2.6e-005 -1 2.6e-005
+    materialIndex 117
+  }
+  poly {
+    numVertices 3
+    pos -0.235901 -3.68204 -0.353532
+    norm 0.353575 -0.866008 0.353575
+    materialIndex 116
+    pos -0.344291 -3.68205 -0.191334
+    norm 0.461958 -0.866014 0.191349
+    materialIndex 104
+    pos -0.58945 -3.81604 -0.707081
+    norm 2.6e-005 -1 2.6e-005
+    materialIndex 117
+  }
+  poly {
+    numVertices 3
+    pos -0.806227 -3.81604 -0.382674
+    norm 2.2e-005 -1 9e-006
+    materialIndex 105
+    pos -1.26817 -3.68207 -0.574017
+    norm -0.46192 -0.866038 -0.191334
+    materialIndex 106
+    pos -0.943007 -3.68208 -1.06064
+    norm -0.353531 -0.866044 -0.353531
+    materialIndex 118
+  }
+  poly {
+    numVertices 3
+    pos -0.58945 -3.81604 -0.707081
+    norm 2.6e-005 -1 2.6e-005
+    materialIndex 117
+    pos -0.806227 -3.81604 -0.382674
+    norm 2.2e-005 -1 9e-006
+    materialIndex 105
+    pos -0.943007 -3.68208 -1.06064
+    norm -0.353531 -0.866044 -0.353531
+    materialIndex 118
+  }
+  poly {
+    numVertices 3
+    pos -1.26817 -3.68207 -0.574017
+    norm -0.46192 -0.866038 -0.191334
+    materialIndex 106
+    pos -1.60634 -3.31606 -0.714092
+    norm -0.800091 -0.500022 -0.331409
+    materialIndex 107
+    pos -1.20183 -3.31607 -1.31947
+    norm -0.612359 -0.500033 -0.612359
+    materialIndex 119
+  }
+  poly {
+    numVertices 3
+    pos -0.943007 -3.68208 -1.06064
+    norm -0.353531 -0.866044 -0.353531
+    materialIndex 118
+    pos -1.26817 -3.68207 -0.574017
+    norm -0.46192 -0.866038 -0.191334
+    materialIndex 106
+    pos -1.20183 -3.31607 -1.31947
+    norm -0.612359 -0.500033 -0.612359
+    materialIndex 119
+  }
+  poly {
+    numVertices 3
+    pos -1.20183 -3.31607 -1.31947
+    norm -0.612359 -0.500033 -0.612359
+    materialIndex 119
+    pos -1.29658 -2.81606 -1.41421
+    norm -0.707107 -2.7e-005 -0.707107
+    materialIndex 108
+    pos -0.647736 -2.81608 -1.84776
+    norm -0.382684 -3.9e-005 -0.92388
+    materialIndex 120
+  }
+  poly {
+    numVertices 3
+    pos -0.596457 -3.31608 -1.72396
+    norm -0.331405 -0.500041 -0.800081
+    materialIndex 131
+    pos -1.20183 -3.31607 -1.31947
+    norm -0.612359 -0.500033 -0.612359
+    materialIndex 119
+    pos -0.647736 -2.81608 -1.84776
+    norm -0.382684 -3.9e-005 -0.92388
+    materialIndex 120
+  }
+  poly {
+    numVertices 3
+    pos -1.29658 -2.81606 -1.41421
+    norm -0.707107 -2.7e-005 -0.707107
+    materialIndex 108
+    pos -1.20186 -2.31606 -1.31949
+    norm -0.612382 0.499976 -0.612382
+    materialIndex 109
+    pos -0.596474 -2.31607 -1.724
+    norm -0.331421 0.499965 -0.800122
+    materialIndex 121
+  }
+  poly {
+    numVertices 3
+    pos -0.647736 -2.81608 -1.84776
+    norm -0.382684 -3.9e-005 -0.92388
+    materialIndex 120
+    pos -1.29658 -2.81606 -1.41421
+    norm -0.707107 -2.7e-005 -0.707107
+    materialIndex 108
+    pos -0.596474 -2.31607 -1.724
+    norm -0.331421 0.499965 -0.800122
+    materialIndex 121
+  }
+  poly {
+    numVertices 3
+    pos -1.20186 -2.31606 -1.31949
+    norm -0.612382 0.499976 -0.612382
+    materialIndex 109
+    pos -0.943047 -1.95002 -1.06068
+    norm -0.353571 0.866011 -0.353571
+    materialIndex 110
+    pos -0.456408 -1.95003 -1.38585
+    norm -0.191355 0.866005 -0.461973
+    materialIndex 122
+  }
+  poly {
+    numVertices 3
+    pos -0.596474 -2.31607 -1.724
+    norm -0.331421 0.499965 -0.800122
+    materialIndex 121
+    pos -1.20186 -2.31606 -1.31949
+    norm -0.612382 0.499976 -0.612382
+    materialIndex 109
+    pos -0.456408 -1.95003 -1.38585
+    norm -0.191355 0.866005 -0.461973
+    materialIndex 122
+  }
+  poly {
+    numVertices 3
+    pos -0.943047 -1.95002 -1.06068
+    norm -0.353571 0.866011 -0.353571
+    materialIndex 110
+    pos -0.589497 -1.81604 -0.707128
+    norm -2.1e-005 1 -2.1e-005
+    materialIndex 111
+    pos -0.265067 -1.81604 -0.923915
+    norm -1.5e-005 1 -3.6e-005
+    materialIndex 123
+  }
+  poly {
+    numVertices 3
+    pos -0.456408 -1.95003 -1.38585
+    norm -0.191355 0.866005 -0.461973
+    materialIndex 122
+    pos -0.943047 -1.95002 -1.06068
+    norm -0.353571 0.866011 -0.353571
+    materialIndex 110
+    pos -0.265067 -1.81604 -0.923915
+    norm -1.5e-005 1 -3.6e-005
+    materialIndex 123
+  }
+  poly {
+    numVertices 3
+    pos -0.589497 -1.81604 -0.707128
+    norm -2.1e-005 1 -2.1e-005
+    materialIndex 111
+    pos -0.235941 -1.95 -0.353572
+    norm 0.353535 0.866041 0.353534
+    materialIndex 112
+    pos -0.0737236 -1.94999 -0.461971
+    norm 0.191329 0.866045 0.461908
+    materialIndex 124
+  }
+  poly {
+    numVertices 3
+    pos -0.265067 -1.81604 -0.923915
+    norm -1.5e-005 1 -3.6e-005
+    materialIndex 123
+    pos -0.589497 -1.81604 -0.707128
+    norm -2.1e-005 1 -2.1e-005
+    materialIndex 111
+    pos -0.0737236 -1.94999 -0.461971
+    norm 0.191329 0.866045 0.461908
+    materialIndex 124
+  }
+  poly {
+    numVertices 3
+    pos -0.235941 -1.95 -0.353572
+    norm 0.353535 0.866041 0.353534
+    materialIndex 112
+    pos 0.0228854 -2.31601 -0.094746
+    norm 0.612361 0.500028 0.612361
+    materialIndex 113
+    pos 0.0663534 -2.316 -0.123795
+    norm 0.331406 0.500035 0.800084
+    materialIndex 125
+  }
+  poly {
+    numVertices 3
+    pos -0.0737236 -1.94999 -0.461971
+    norm 0.191329 0.866045 0.461908
+    materialIndex 124
+    pos -0.235941 -1.95 -0.353572
+    norm 0.353535 0.866041 0.353534
+    materialIndex 112
+    pos 0.0663534 -2.316 -0.123795
+    norm 0.331406 0.500035 0.800084
+    materialIndex 125
+  }
+  poly {
+    numVertices 3
+    pos 0.0228854 -2.31601 -0.094746
+    norm 0.612361 0.500028 0.612361
+    materialIndex 113
+    pos 0.117631 -2.816 0
+    norm 0.707107 3.3e-005 0.707107
+    materialIndex 114
+    pos 0.117631 -2.81599 0
+    norm 0.382684 4.2e-005 0.92388
+    materialIndex 126
+  }
+  poly {
+    numVertices 3
+    pos 0.0663534 -2.316 -0.123795
+    norm 0.331406 0.500035 0.800084
+    materialIndex 125
+    pos 0.0228854 -2.31601 -0.094746
+    norm 0.612361 0.500028 0.612361
+    materialIndex 113
+    pos 0.117631 -2.81599 0
+    norm 0.382684 4.2e-005 0.92388
+    materialIndex 126
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.816 0
+    norm 0.707107 3.3e-005 0.707107
+    materialIndex 114
+    pos 0.0229094 -3.31601 -0.094722
+    norm 0.612385 -0.499971 0.612384
+    materialIndex 115
+    pos 0.0663694 -3.316 -0.123757
+    norm 0.331422 -0.499963 0.800123
+    materialIndex 127
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81599 0
+    norm 0.382684 4.2e-005 0.92388
+    materialIndex 126
+    pos 0.117631 -2.816 0
+    norm 0.707107 3.3e-005 0.707107
+    materialIndex 114
+    pos 0.0663694 -3.316 -0.123757
+    norm 0.331422 -0.499963 0.800123
+    materialIndex 127
+  }
+  poly {
+    numVertices 3
+    pos 0.0229094 -3.31601 -0.094722
+    norm 0.612385 -0.499971 0.612384
+    materialIndex 115
+    pos -0.235901 -3.68204 -0.353532
+    norm 0.353575 -0.866008 0.353575
+    materialIndex 116
+    pos -0.0736956 -3.68204 -0.461905
+    norm 0.191356 -0.866003 0.461975
+    materialIndex 128
+  }
+  poly {
+    numVertices 3
+    pos 0.0663694 -3.316 -0.123757
+    norm 0.331422 -0.499963 0.800123
+    materialIndex 127
+    pos 0.0229094 -3.31601 -0.094722
+    norm 0.612385 -0.499971 0.612384
+    materialIndex 115
+    pos -0.0736956 -3.68204 -0.461905
+    norm 0.191356 -0.866003 0.461975
+    materialIndex 128
+  }
+  poly {
+    numVertices 3
+    pos -0.235901 -3.68204 -0.353532
+    norm 0.353575 -0.866008 0.353575
+    materialIndex 116
+    pos -0.58945 -3.81604 -0.707081
+    norm 2.6e-005 -1 2.6e-005
+    materialIndex 117
+    pos -0.265035 -3.81604 -0.923838
+    norm 1.7e-005 -1 4.2e-005
+    materialIndex 129
+  }
+  poly {
+    numVertices 3
+    pos -0.0736956 -3.68204 -0.461905
+    norm 0.191356 -0.866003 0.461975
+    materialIndex 128
+    pos -0.235901 -3.68204 -0.353532
+    norm 0.353575 -0.866008 0.353575
+    materialIndex 116
+    pos -0.265035 -3.81604 -0.923838
+    norm 1.7e-005 -1 4.2e-005
+    materialIndex 129
+  }
+  poly {
+    numVertices 3
+    pos -0.58945 -3.81604 -0.707081
+    norm 2.6e-005 -1 2.6e-005
+    materialIndex 117
+    pos -0.943007 -3.68208 -1.06064
+    norm -0.353531 -0.866044 -0.353531
+    materialIndex 118
+    pos -0.456379 -3.68208 -1.38578
+    norm -0.191327 -0.866048 -0.461903
+    materialIndex 130
+  }
+  poly {
+    numVertices 3
+    pos -0.265035 -3.81604 -0.923838
+    norm 1.7e-005 -1 4.2e-005
+    materialIndex 129
+    pos -0.58945 -3.81604 -0.707081
+    norm 2.6e-005 -1 2.6e-005
+    materialIndex 117
+    pos -0.456379 -3.68208 -1.38578
+    norm -0.191327 -0.866048 -0.461903
+    materialIndex 130
+  }
+  poly {
+    numVertices 3
+    pos -0.943007 -3.68208 -1.06064
+    norm -0.353531 -0.866044 -0.353531
+    materialIndex 118
+    pos -1.20183 -3.31607 -1.31947
+    norm -0.612359 -0.500033 -0.612359
+    materialIndex 119
+    pos -0.596457 -3.31608 -1.72396
+    norm -0.331405 -0.500041 -0.800081
+    materialIndex 131
+  }
+  poly {
+    numVertices 3
+    pos -0.456379 -3.68208 -1.38578
+    norm -0.191327 -0.866048 -0.461903
+    materialIndex 130
+    pos -0.943007 -3.68208 -1.06064
+    norm -0.353531 -0.866044 -0.353531
+    materialIndex 118
+    pos -0.596457 -3.31608 -1.72396
+    norm -0.331405 -0.500041 -0.800081
+    materialIndex 131
+  }
+  poly {
+    numVertices 3
+    pos -0.596457 -3.31608 -1.72396
+    norm -0.331405 -0.500041 -0.800081
+    materialIndex 131
+    pos -0.647736 -2.81608 -1.84776
+    norm -0.382684 -3.9e-005 -0.92388
+    materialIndex 120
+    pos 0.117631 -2.81608 -2
+    norm 0 -4.8e-005 -1
+    materialIndex 132
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.31609 -1.866
+    norm 0 -0.500052 -0.865996
+    materialIndex 143
+    pos -0.596457 -3.31608 -1.72396
+    norm -0.331405 -0.500041 -0.800081
+    materialIndex 131
+    pos 0.117631 -2.81608 -2
+    norm 0 -4.8e-005 -1
+    materialIndex 132
+  }
+  poly {
+    numVertices 3
+    pos -0.647736 -2.81608 -1.84776
+    norm -0.382684 -3.9e-005 -0.92388
+    materialIndex 120
+    pos -0.596474 -2.31607 -1.724
+    norm -0.331421 0.499965 -0.800122
+    materialIndex 121
+    pos 0.117631 -2.31608 -1.86605
+    norm 0 0.499957 -0.86605
+    materialIndex 133
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81608 -2
+    norm 0 -4.8e-005 -1
+    materialIndex 132
+    pos -0.647736 -2.81608 -1.84776
+    norm -0.382684 -3.9e-005 -0.92388
+    materialIndex 120
+    pos 0.117631 -2.31608 -1.86605
+    norm 0 0.499957 -0.86605
+    materialIndex 133
+  }
+  poly {
+    numVertices 3
+    pos -0.596474 -2.31607 -1.724
+    norm -0.331421 0.499965 -0.800122
+    materialIndex 121
+    pos -0.456408 -1.95003 -1.38585
+    norm -0.191355 0.866005 -0.461973
+    materialIndex 122
+    pos 0.117631 -1.95004 -1.50004
+    norm 0 0.866 -0.500044
+    materialIndex 134
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.31608 -1.86605
+    norm 0 0.499957 -0.86605
+    materialIndex 133
+    pos -0.596474 -2.31607 -1.724
+    norm -0.331421 0.499965 -0.800122
+    materialIndex 121
+    pos 0.117631 -1.95004 -1.50004
+    norm 0 0.866 -0.500044
+    materialIndex 134
+  }
+  poly {
+    numVertices 3
+    pos -0.456408 -1.95003 -1.38585
+    norm -0.191355 0.866005 -0.461973
+    materialIndex 122
+    pos -0.265067 -1.81604 -0.923915
+    norm -1.5e-005 1 -3.6e-005
+    materialIndex 123
+    pos 0.117631 -1.81604 -1.00005
+    norm 0 1 -5.1e-005
+    materialIndex 135
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.95004 -1.50004
+    norm 0 0.866 -0.500044
+    materialIndex 134
+    pos -0.456408 -1.95003 -1.38585
+    norm -0.191355 0.866005 -0.461973
+    materialIndex 122
+    pos 0.117631 -1.81604 -1.00005
+    norm 0 1 -5.1e-005
+    materialIndex 135
+  }
+  poly {
+    numVertices 3
+    pos -0.265067 -1.81604 -0.923915
+    norm -1.5e-005 1 -3.6e-005
+    materialIndex 123
+    pos -0.0737236 -1.94999 -0.461971
+    norm 0.191329 0.866045 0.461908
+    materialIndex 124
+    pos 0.117631 -1.94998 -0.500045
+    norm 0 0.866052 0.499955
+    materialIndex 136
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.81604 -1.00005
+    norm 0 1 -5.1e-005
+    materialIndex 135
+    pos -0.265067 -1.81604 -0.923915
+    norm -1.5e-005 1 -3.6e-005
+    materialIndex 123
+    pos 0.117631 -1.94998 -0.500045
+    norm 0 0.866052 0.499955
+    materialIndex 136
+  }
+  poly {
+    numVertices 3
+    pos -0.0737236 -1.94999 -0.461971
+    norm 0.191329 0.866045 0.461908
+    materialIndex 124
+    pos 0.0663534 -2.316 -0.123795
+    norm 0.331406 0.500035 0.800084
+    materialIndex 125
+    pos 0.117631 -2.31599 -0.134001
+    norm 0 0.500046 0.865999
+    materialIndex 137
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.94998 -0.500045
+    norm 0 0.866052 0.499955
+    materialIndex 136
+    pos -0.0737236 -1.94999 -0.461971
+    norm 0.191329 0.866045 0.461908
+    materialIndex 124
+    pos 0.117631 -2.31599 -0.134001
+    norm 0 0.500046 0.865999
+    materialIndex 137
+  }
+  poly {
+    numVertices 3
+    pos 0.0663534 -2.316 -0.123795
+    norm 0.331406 0.500035 0.800084
+    materialIndex 125
+    pos 0.117631 -2.81599 0
+    norm 0.382684 4.2e-005 0.92388
+    materialIndex 126
+    pos 0.117631 -2.81598 0
+    norm 0 5.4e-005 1
+    materialIndex 138
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.31599 -0.134001
+    norm 0 0.500046 0.865999
+    materialIndex 137
+    pos 0.0663534 -2.316 -0.123795
+    norm 0.331406 0.500035 0.800084
+    materialIndex 125
+    pos 0.117631 -2.81598 0
+    norm 0 5.4e-005 1
+    materialIndex 138
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81599 0
+    norm 0.382684 4.2e-005 0.92388
+    materialIndex 126
+    pos 0.0663694 -3.316 -0.123757
+    norm 0.331422 -0.499963 0.800123
+    materialIndex 127
+    pos 0.117631 -3.31599 -0.133947
+    norm 0 -0.499952 0.866053
+    materialIndex 139
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81598 0
+    norm 0 5.4e-005 1
+    materialIndex 138
+    pos 0.117631 -2.81599 0
+    norm 0.382684 4.2e-005 0.92388
+    materialIndex 126
+    pos 0.117631 -3.31599 -0.133947
+    norm 0 -0.499952 0.866053
+    materialIndex 139
+  }
+  poly {
+    numVertices 3
+    pos 0.0663694 -3.316 -0.123757
+    norm 0.331422 -0.499963 0.800123
+    materialIndex 127
+    pos -0.0736956 -3.68204 -0.461905
+    norm 0.191356 -0.866003 0.461975
+    materialIndex 128
+    pos 0.117631 -3.68203 -0.499951
+    norm 0 -0.865997 0.500049
+    materialIndex 140
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.31599 -0.133947
+    norm 0 -0.499952 0.866053
+    materialIndex 139
+    pos 0.0663694 -3.316 -0.123757
+    norm 0.331422 -0.499963 0.800123
+    materialIndex 127
+    pos 0.117631 -3.68203 -0.499951
+    norm 0 -0.865997 0.500049
+    materialIndex 140
+  }
+  poly {
+    numVertices 3
+    pos -0.0736956 -3.68204 -0.461905
+    norm 0.191356 -0.866003 0.461975
+    materialIndex 128
+    pos -0.265035 -3.81604 -0.923838
+    norm 1.7e-005 -1 4.2e-005
+    materialIndex 129
+    pos 0.117631 -3.81604 -0.999942
+    norm 0 -1 5.8e-005
+    materialIndex 141
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.68203 -0.499951
+    norm 0 -0.865997 0.500049
+    materialIndex 140
+    pos -0.0736956 -3.68204 -0.461905
+    norm 0.191356 -0.866003 0.461975
+    materialIndex 128
+    pos 0.117631 -3.81604 -0.999942
+    norm 0 -1 5.8e-005
+    materialIndex 141
+  }
+  poly {
+    numVertices 3
+    pos -0.265035 -3.81604 -0.923838
+    norm 1.7e-005 -1 4.2e-005
+    materialIndex 129
+    pos -0.456379 -3.68208 -1.38578
+    norm -0.191327 -0.866048 -0.461903
+    materialIndex 130
+    pos 0.117631 -3.68209 -1.49995
+    norm 0 -0.866055 -0.499949
+    materialIndex 142
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.81604 -0.999942
+    norm 0 -1 5.8e-005
+    materialIndex 141
+    pos -0.265035 -3.81604 -0.923838
+    norm 1.7e-005 -1 4.2e-005
+    materialIndex 129
+    pos 0.117631 -3.68209 -1.49995
+    norm 0 -0.866055 -0.499949
+    materialIndex 142
+  }
+  poly {
+    numVertices 3
+    pos -0.456379 -3.68208 -1.38578
+    norm -0.191327 -0.866048 -0.461903
+    materialIndex 130
+    pos -0.596457 -3.31608 -1.72396
+    norm -0.331405 -0.500041 -0.800081
+    materialIndex 131
+    pos 0.117631 -3.31609 -1.866
+    norm 0 -0.500052 -0.865996
+    materialIndex 143
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.68209 -1.49995
+    norm 0 -0.866055 -0.499949
+    materialIndex 142
+    pos -0.456379 -3.68208 -1.38578
+    norm -0.191327 -0.866048 -0.461903
+    materialIndex 130
+    pos 0.117631 -3.31609 -1.866
+    norm 0 -0.500052 -0.865996
+    materialIndex 143
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.31609 -1.866
+    norm 0 -0.500052 -0.865996
+    materialIndex 143
+    pos 0.117631 -2.81608 -2
+    norm 0 -4.8e-005 -1
+    materialIndex 132
+    pos 0.882998 -2.8161 -1.84776
+    norm 0.382684 -6.1e-005 -0.923879
+    materialIndex 144
+  }
+  poly {
+    numVertices 3
+    pos 0.831714 -3.3161 -1.72395
+    norm 0.3314 -0.500063 -0.80007
+    materialIndex 155
+    pos 0.117631 -3.31609 -1.866
+    norm 0 -0.500052 -0.865996
+    materialIndex 143
+    pos 0.882998 -2.8161 -1.84776
+    norm 0.382684 -6.1e-005 -0.923879
+    materialIndex 144
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81608 -2
+    norm 0 -4.8e-005 -1
+    materialIndex 132
+    pos 0.117631 -2.31608 -1.86605
+    norm 0 0.499957 -0.86605
+    materialIndex 133
+    pos 0.83174 -2.31609 -1.72401
+    norm 0.331426 0.499946 -0.800132
+    materialIndex 145
+  }
+  poly {
+    numVertices 3
+    pos 0.882998 -2.8161 -1.84776
+    norm 0.382684 -6.1e-005 -0.923879
+    materialIndex 144
+    pos 0.117631 -2.81608 -2
+    norm 0 -4.8e-005 -1
+    materialIndex 132
+    pos 0.83174 -2.31609 -1.72401
+    norm 0.331426 0.499946 -0.800132
+    materialIndex 145
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.31608 -1.86605
+    norm 0 0.499957 -0.86605
+    materialIndex 133
+    pos 0.117631 -1.95004 -1.50004
+    norm 0 0.866 -0.500044
+    materialIndex 134
+    pos 0.691677 -1.95004 -1.38587
+    norm 0.191363 0.865994 -0.46199
+    materialIndex 146
+  }
+  poly {
+    numVertices 3
+    pos 0.83174 -2.31609 -1.72401
+    norm 0.331426 0.499946 -0.800132
+    materialIndex 145
+    pos 0.117631 -2.31608 -1.86605
+    norm 0 0.499957 -0.86605
+    materialIndex 133
+    pos 0.691677 -1.95004 -1.38587
+    norm 0.191363 0.865994 -0.46199
+    materialIndex 146
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.95004 -1.50004
+    norm 0 0.866 -0.500044
+    materialIndex 134
+    pos 0.117631 -1.81604 -1.00005
+    norm 0 1 -5.1e-005
+    materialIndex 135
+    pos 0.500339 -1.81604 -0.923939
+    norm 2.4e-005 1 -5.9e-005
+    materialIndex 147
+  }
+  poly {
+    numVertices 3
+    pos 0.691677 -1.95004 -1.38587
+    norm 0.191363 0.865994 -0.46199
+    materialIndex 146
+    pos 0.117631 -1.95004 -1.50004
+    norm 0 0.866 -0.500044
+    materialIndex 134
+    pos 0.500339 -1.81604 -0.923939
+    norm 2.4e-005 1 -5.9e-005
+    materialIndex 147
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.81604 -1.00005
+    norm 0 1 -5.1e-005
+    materialIndex 135
+    pos 0.117631 -1.94998 -0.500045
+    norm 0 0.866052 0.499955
+    materialIndex 136
+    pos 0.308994 -1.94998 -0.461992
+    norm -0.19132 0.866058 0.461888
+    materialIndex 148
+  }
+  poly {
+    numVertices 3
+    pos 0.500339 -1.81604 -0.923939
+    norm 2.4e-005 1 -5.9e-005
+    materialIndex 147
+    pos 0.117631 -1.81604 -1.00005
+    norm 0 1 -5.1e-005
+    materialIndex 135
+    pos 0.308994 -1.94998 -0.461992
+    norm -0.19132 0.866058 0.461888
+    materialIndex 148
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -1.94998 -0.500045
+    norm 0 0.866052 0.499955
+    materialIndex 136
+    pos 0.117631 -2.31599 -0.134001
+    norm 0 0.500046 0.865999
+    materialIndex 137
+    pos 0.168914 -2.31598 -0.123807
+    norm -0.331401 0.500057 0.800073
+    materialIndex 149
+  }
+  poly {
+    numVertices 3
+    pos 0.308994 -1.94998 -0.461992
+    norm -0.19132 0.866058 0.461888
+    materialIndex 148
+    pos 0.117631 -1.94998 -0.500045
+    norm 0 0.866052 0.499955
+    materialIndex 136
+    pos 0.168914 -2.31598 -0.123807
+    norm -0.331401 0.500057 0.800073
+    materialIndex 149
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.31599 -0.134001
+    norm 0 0.500046 0.865999
+    materialIndex 137
+    pos 0.117631 -2.81598 0
+    norm 0 5.4e-005 1
+    materialIndex 138
+    pos 0.117631 -2.81597 0
+    norm -0.382684 6.7e-005 0.923879
+    materialIndex 150
+  }
+  poly {
+    numVertices 3
+    pos 0.168914 -2.31598 -0.123807
+    norm -0.331401 0.500057 0.800073
+    materialIndex 149
+    pos 0.117631 -2.31599 -0.134001
+    norm 0 0.500046 0.865999
+    materialIndex 137
+    pos 0.117631 -2.81597 0
+    norm -0.382684 6.7e-005 0.923879
+    materialIndex 150
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81598 0
+    norm 0 5.4e-005 1
+    materialIndex 138
+    pos 0.117631 -3.31599 -0.133947
+    norm 0 -0.499952 0.866053
+    materialIndex 139
+    pos 0.168888 -3.31598 -0.123745
+    norm -0.331427 -0.499941 0.800135
+    materialIndex 151
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81597 0
+    norm -0.382684 6.7e-005 0.923879
+    materialIndex 150
+    pos 0.117631 -2.81598 0
+    norm 0 5.4e-005 1
+    materialIndex 138
+    pos 0.168888 -3.31598 -0.123745
+    norm -0.331427 -0.499941 0.800135
+    materialIndex 151
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.31599 -0.133947
+    norm 0 -0.499952 0.866053
+    materialIndex 139
+    pos 0.117631 -3.68203 -0.499951
+    norm 0 -0.865997 0.500049
+    materialIndex 140
+    pos 0.30895 -3.68203 -0.461884
+    norm -0.191365 -0.865991 0.461995
+    materialIndex 152
+  }
+  poly {
+    numVertices 3
+    pos 0.168888 -3.31598 -0.123745
+    norm -0.331427 -0.499941 0.800135
+    materialIndex 151
+    pos 0.117631 -3.31599 -0.133947
+    norm 0 -0.499952 0.866053
+    materialIndex 139
+    pos 0.30895 -3.68203 -0.461884
+    norm -0.191365 -0.865991 0.461995
+    materialIndex 152
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.68203 -0.499951
+    norm 0 -0.865997 0.500049
+    materialIndex 140
+    pos 0.117631 -3.81604 -0.999942
+    norm 0 -1 5.8e-005
+    materialIndex 141
+    pos 0.500288 -3.81604 -0.923814
+    norm -2.7e-005 -1 6.5e-005
+    materialIndex 153
+  }
+  poly {
+    numVertices 3
+    pos 0.30895 -3.68203 -0.461884
+    norm -0.191365 -0.865991 0.461995
+    materialIndex 152
+    pos 0.117631 -3.68203 -0.499951
+    norm 0 -0.865997 0.500049
+    materialIndex 140
+    pos 0.500288 -3.81604 -0.923814
+    norm -2.7e-005 -1 6.5e-005
+    materialIndex 153
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.81604 -0.999942
+    norm 0 -1 5.8e-005
+    materialIndex 141
+    pos 0.117631 -3.68209 -1.49995
+    norm 0 -0.866055 -0.499949
+    materialIndex 142
+    pos 0.691633 -3.6821 -1.38576
+    norm 0.191318 -0.866061 -0.461883
+    materialIndex 154
+  }
+  poly {
+    numVertices 3
+    pos 0.500288 -3.81604 -0.923814
+    norm -2.7e-005 -1 6.5e-005
+    materialIndex 153
+    pos 0.117631 -3.81604 -0.999942
+    norm 0 -1 5.8e-005
+    materialIndex 141
+    pos 0.691633 -3.6821 -1.38576
+    norm 0.191318 -0.866061 -0.461883
+    materialIndex 154
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -3.68209 -1.49995
+    norm 0 -0.866055 -0.499949
+    materialIndex 142
+    pos 0.117631 -3.31609 -1.866
+    norm 0 -0.500052 -0.865996
+    materialIndex 143
+    pos 0.831714 -3.3161 -1.72395
+    norm 0.3314 -0.500063 -0.80007
+    materialIndex 155
+  }
+  poly {
+    numVertices 3
+    pos 0.691633 -3.6821 -1.38576
+    norm 0.191318 -0.866061 -0.461883
+    materialIndex 154
+    pos 0.117631 -3.68209 -1.49995
+    norm 0 -0.866055 -0.499949
+    materialIndex 142
+    pos 0.831714 -3.3161 -1.72395
+    norm 0.3314 -0.500063 -0.80007
+    materialIndex 155
+  }
+  poly {
+    numVertices 3
+    pos 0.831714 -3.3161 -1.72395
+    norm 0.3314 -0.500063 -0.80007
+    materialIndex 155
+    pos 0.882998 -2.8161 -1.84776
+    norm 0.382684 -6.1e-005 -0.923879
+    materialIndex 144
+    pos 1.53185 -2.81611 -1.41421
+    norm 0.707107 -7.4e-005 -0.707107
+    materialIndex 156
+  }
+  poly {
+    numVertices 3
+    pos 1.43708 -3.31611 -1.31945
+    norm 0.612343 -0.500074 -0.612342
+    materialIndex 167
+    pos 0.831714 -3.3161 -1.72395
+    norm 0.3314 -0.500063 -0.80007
+    materialIndex 155
+    pos 1.53185 -2.81611 -1.41421
+    norm 0.707107 -7.4e-005 -0.707107
+    materialIndex 156
+  }
+  poly {
+    numVertices 3
+    pos 0.882998 -2.8161 -1.84776
+    norm 0.382684 -6.1e-005 -0.923879
+    materialIndex 144
+    pos 0.83174 -2.31609 -1.72401
+    norm 0.331426 0.499946 -0.800132
+    materialIndex 145
+    pos 1.43714 -2.3161 -1.3195
+    norm 0.612399 0.499935 -0.612399
+    materialIndex 157
+  }
+  poly {
+    numVertices 3
+    pos 1.53185 -2.81611 -1.41421
+    norm 0.707107 -7.4e-005 -0.707107
+    materialIndex 156
+    pos 0.882998 -2.8161 -1.84776
+    norm 0.382684 -6.1e-005 -0.923879
+    materialIndex 144
+    pos 1.43714 -2.3161 -1.3195
+    norm 0.612399 0.499935 -0.612399
+    materialIndex 157
+  }
+  poly {
+    numVertices 3
+    pos 0.83174 -2.31609 -1.72401
+    norm 0.331426 0.499946 -0.800132
+    materialIndex 145
+    pos 0.691677 -1.95004 -1.38587
+    norm 0.191363 0.865994 -0.46199
+    materialIndex 146
+    pos 1.17834 -1.95005 -1.06071
+    norm 0.3536 0.865988 -0.3536
+    materialIndex 158
+  }
+  poly {
+    numVertices 3
+    pos 1.43714 -2.3161 -1.3195
+    norm 0.612399 0.499935 -0.612399
+    materialIndex 157
+    pos 0.83174 -2.31609 -1.72401
+    norm 0.331426 0.499946 -0.800132
+    materialIndex 145
+    pos 1.17834 -1.95005 -1.06071
+    norm 0.3536 0.865988 -0.3536
+    materialIndex 158
+  }
+  poly {
+    numVertices 3
+    pos 0.691677 -1.95004 -1.38587
+    norm 0.191363 0.865994 -0.46199
+    materialIndex 146
+    pos 0.500339 -1.81604 -0.923939
+    norm 2.4e-005 1 -5.9e-005
+    materialIndex 147
+    pos 0.824792 -1.81604 -0.707161
+    norm 5.4e-005 1 -5.4e-005
+    materialIndex 159
+  }
+  poly {
+    numVertices 3
+    pos 1.17834 -1.95005 -1.06071
+    norm 0.3536 0.865988 -0.3536
+    materialIndex 158
+    pos 0.691677 -1.95004 -1.38587
+    norm 0.191363 0.865994 -0.46199
+    materialIndex 146
+    pos 0.824792 -1.81604 -0.707161
+    norm 5.4e-005 1 -5.4e-005
+    materialIndex 159
+  }
+  poly {
+    numVertices 3
+    pos 0.500339 -1.81604 -0.923939
+    norm 2.4e-005 1 -5.9e-005
+    materialIndex 147
+    pos 0.308994 -1.94998 -0.461992
+    norm -0.19132 0.866058 0.461888
+    materialIndex 148
+    pos 0.471232 -1.94997 -0.353601
+    norm -0.353506 0.866064 0.353506
+    materialIndex 160
+  }
+  poly {
+    numVertices 3
+    pos 0.824792 -1.81604 -0.707161
+    norm 5.4e-005 1 -5.4e-005
+    materialIndex 159
+    pos 0.500339 -1.81604 -0.923939
+    norm 2.4e-005 1 -5.9e-005
+    materialIndex 147
+    pos 0.471232 -1.94997 -0.353601
+    norm -0.353506 0.866064 0.353506
+    materialIndex 160
+  }
+  poly {
+    numVertices 3
+    pos 0.308994 -1.94998 -0.461992
+    norm -0.19132 0.866058 0.461888
+    materialIndex 148
+    pos 0.168914 -2.31598 -0.123807
+    norm -0.331401 0.500057 0.800073
+    materialIndex 149
+    pos 0.212393 -2.31597 -0.094762
+    norm -0.612345 0.500068 0.612344
+    materialIndex 161
+  }
+  poly {
+    numVertices 3
+    pos 0.471232 -1.94997 -0.353601
+    norm -0.353506 0.866064 0.353506
+    materialIndex 160
+    pos 0.308994 -1.94998 -0.461992
+    norm -0.19132 0.866058 0.461888
+    materialIndex 148
+    pos 0.212393 -2.31597 -0.094762
+    norm -0.612345 0.500068 0.612344
+    materialIndex 161
+  }
+  poly {
+    numVertices 3
+    pos 0.168914 -2.31598 -0.123807
+    norm -0.331401 0.500057 0.800073
+    materialIndex 149
+    pos 0.117631 -2.81597 0
+    norm -0.382684 6.7e-005 0.923879
+    materialIndex 150
+    pos 0.117631 -2.81596 0
+    norm -0.707107 8e-005 0.707107
+    materialIndex 162
+  }
+  poly {
+    numVertices 3
+    pos 0.212393 -2.31597 -0.094762
+    norm -0.612345 0.500068 0.612344
+    materialIndex 161
+    pos 0.168914 -2.31598 -0.123807
+    norm -0.331401 0.500057 0.800073
+    materialIndex 149
+    pos 0.117631 -2.81596 0
+    norm -0.707107 8e-005 0.707107
+    materialIndex 162
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81597 0
+    norm -0.382684 6.7e-005 0.923879
+    materialIndex 150
+    pos 0.168888 -3.31598 -0.123745
+    norm -0.331427 -0.499941 0.800135
+    materialIndex 151
+    pos 0.212337 -3.31597 -0.094706
+    norm -0.612401 -0.49993 0.612401
+    materialIndex 163
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81596 0
+    norm -0.707107 8e-005 0.707107
+    materialIndex 162
+    pos 0.117631 -2.81597 0
+    norm -0.382684 6.7e-005 0.923879
+    materialIndex 150
+    pos 0.212337 -3.31597 -0.094706
+    norm -0.612401 -0.49993 0.612401
+    materialIndex 163
+  }
+  poly {
+    numVertices 3
+    pos 0.168888 -3.31598 -0.123745
+    norm -0.331427 -0.499941 0.800135
+    materialIndex 151
+    pos 0.30895 -3.68203 -0.461884
+    norm -0.191365 -0.865991 0.461995
+    materialIndex 152
+    pos 0.471134 -3.68202 -0.353503
+    norm -0.353604 -0.865984 0.353603
+    materialIndex 164
+  }
+  poly {
+    numVertices 3
+    pos 0.212337 -3.31597 -0.094706
+    norm -0.612401 -0.49993 0.612401
+    materialIndex 163
+    pos 0.168888 -3.31598 -0.123745
+    norm -0.331427 -0.499941 0.800135
+    materialIndex 151
+    pos 0.471134 -3.68202 -0.353503
+    norm -0.353604 -0.865984 0.353603
+    materialIndex 164
+  }
+  poly {
+    numVertices 3
+    pos 0.30895 -3.68203 -0.461884
+    norm -0.191365 -0.865991 0.461995
+    materialIndex 152
+    pos 0.500288 -3.81604 -0.923814
+    norm -2.7e-005 -1 6.5e-005
+    materialIndex 153
+    pos 0.824679 -3.81604 -0.707048
+    norm -5.9e-005 -1 5.9e-005
+    materialIndex 165
+  }
+  poly {
+    numVertices 3
+    pos 0.471134 -3.68202 -0.353503
+    norm -0.353604 -0.865984 0.353603
+    materialIndex 164
+    pos 0.30895 -3.68203 -0.461884
+    norm -0.191365 -0.865991 0.461995
+    materialIndex 152
+    pos 0.824679 -3.81604 -0.707048
+    norm -5.9e-005 -1 5.9e-005
+    materialIndex 165
+  }
+  poly {
+    numVertices 3
+    pos 0.500288 -3.81604 -0.923814
+    norm -2.7e-005 -1 6.5e-005
+    materialIndex 153
+    pos 0.691633 -3.6821 -1.38576
+    norm 0.191318 -0.866061 -0.461883
+    materialIndex 154
+    pos 1.17824 -3.6821 -1.06061
+    norm 0.353502 -0.866067 -0.353502
+    materialIndex 166
+  }
+  poly {
+    numVertices 3
+    pos 0.824679 -3.81604 -0.707048
+    norm -5.9e-005 -1 5.9e-005
+    materialIndex 165
+    pos 0.500288 -3.81604 -0.923814
+    norm -2.7e-005 -1 6.5e-005
+    materialIndex 153
+    pos 1.17824 -3.6821 -1.06061
+    norm 0.353502 -0.866067 -0.353502
+    materialIndex 166
+  }
+  poly {
+    numVertices 3
+    pos 0.691633 -3.6821 -1.38576
+    norm 0.191318 -0.866061 -0.461883
+    materialIndex 154
+    pos 0.831714 -3.3161 -1.72395
+    norm 0.3314 -0.500063 -0.80007
+    materialIndex 155
+    pos 1.43708 -3.31611 -1.31945
+    norm 0.612343 -0.500074 -0.612342
+    materialIndex 167
+  }
+  poly {
+    numVertices 3
+    pos 1.17824 -3.6821 -1.06061
+    norm 0.353502 -0.866067 -0.353502
+    materialIndex 166
+    pos 0.691633 -3.6821 -1.38576
+    norm 0.191318 -0.866061 -0.461883
+    materialIndex 154
+    pos 1.43708 -3.31611 -1.31945
+    norm 0.612343 -0.500074 -0.612342
+    materialIndex 167
+  }
+  poly {
+    numVertices 3
+    pos 1.43708 -3.31611 -1.31945
+    norm 0.612343 -0.500074 -0.612342
+    materialIndex 167
+    pos 1.53185 -2.81611 -1.41421
+    norm 0.707107 -7.4e-005 -0.707107
+    materialIndex 156
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.707107 -8.6e-005 -0.707107
+    materialIndex 168
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612338 -0.500085 -0.612338
+    materialIndex 179
+    pos 1.43708 -3.31611 -1.31945
+    norm 0.612343 -0.500074 -0.612342
+    materialIndex 167
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.707107 -8.6e-005 -0.707107
+    materialIndex 168
+  }
+  poly {
+    numVertices 3
+    pos 1.53185 -2.81611 -1.41421
+    norm 0.707107 -7.4e-005 -0.707107
+    materialIndex 156
+    pos 1.43714 -2.3161 -1.3195
+    norm 0.612399 0.499935 -0.612399
+    materialIndex 157
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612404 0.499924 -0.612403
+    materialIndex 169
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.707107 -8.6e-005 -0.707107
+    materialIndex 168
+    pos 1.53185 -2.81611 -1.41421
+    norm 0.707107 -7.4e-005 -0.707107
+    materialIndex 156
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612404 0.499924 -0.612403
+    materialIndex 169
+  }
+  poly {
+    numVertices 3
+    pos 1.43714 -2.3161 -1.3195
+    norm 0.612399 0.499935 -0.612399
+    materialIndex 157
+    pos 1.17834 -1.95005 -1.06071
+    norm 0.3536 0.865988 -0.3536
+    materialIndex 158
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353608 0.865981 -0.353607
+    materialIndex 170
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612404 0.499924 -0.612403
+    materialIndex 169
+    pos 1.43714 -2.3161 -1.3195
+    norm 0.612399 0.499935 -0.612399
+    materialIndex 157
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353608 0.865981 -0.353607
+    materialIndex 170
+  }
+  poly {
+    numVertices 3
+    pos 1.17834 -1.95005 -1.06071
+    norm 0.3536 0.865988 -0.3536
+    materialIndex 158
+    pos 0.824792 -1.81604 -0.707161
+    norm 5.4e-005 1 -5.4e-005
+    materialIndex 159
+    pos 0.824738 -2.81604 -0.707107
+    norm 6.3e-005 1 -6.3e-005
+    materialIndex 171
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353608 0.865981 -0.353607
+    materialIndex 170
+    pos 1.17834 -1.95005 -1.06071
+    norm 0.3536 0.865988 -0.3536
+    materialIndex 158
+    pos 0.824738 -2.81604 -0.707107
+    norm 6.3e-005 1 -6.3e-005
+    materialIndex 171
+  }
+  poly {
+    numVertices 3
+    pos 0.824792 -1.81604 -0.707161
+    norm 5.4e-005 1 -5.4e-005
+    materialIndex 159
+    pos 0.471232 -1.94997 -0.353601
+    norm -0.353506 0.866064 0.353506
+    materialIndex 160
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353498 0.866071 0.353498
+    materialIndex 172
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 6.3e-005 1 -6.3e-005
+    materialIndex 171
+    pos 0.824792 -1.81604 -0.707161
+    norm 5.4e-005 1 -5.4e-005
+    materialIndex 159
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353498 0.866071 0.353498
+    materialIndex 172
+  }
+  poly {
+    numVertices 3
+    pos 0.471232 -1.94997 -0.353601
+    norm -0.353506 0.866064 0.353506
+    materialIndex 160
+    pos 0.212393 -2.31597 -0.094762
+    norm -0.612345 0.500068 0.612344
+    materialIndex 161
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.61234 0.500079 0.61234
+    materialIndex 173
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353498 0.866071 0.353498
+    materialIndex 172
+    pos 0.471232 -1.94997 -0.353601
+    norm -0.353506 0.866064 0.353506
+    materialIndex 160
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.61234 0.500079 0.61234
+    materialIndex 173
+  }
+  poly {
+    numVertices 3
+    pos 0.212393 -2.31597 -0.094762
+    norm -0.612345 0.500068 0.612344
+    materialIndex 161
+    pos 0.117631 -2.81596 0
+    norm -0.707107 8e-005 0.707107
+    materialIndex 162
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.707107 9.3e-005 0.707107
+    materialIndex 174
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.61234 0.500079 0.61234
+    materialIndex 173
+    pos 0.212393 -2.31597 -0.094762
+    norm -0.612345 0.500068 0.612344
+    materialIndex 161
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.707107 9.3e-005 0.707107
+    materialIndex 174
+  }
+  poly {
+    numVertices 3
+    pos 0.117631 -2.81596 0
+    norm -0.707107 8e-005 0.707107
+    materialIndex 162
+    pos 0.212337 -3.31597 -0.094706
+    norm -0.612401 -0.49993 0.612401
+    materialIndex 163
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.612406 -0.499919 0.612405
+    materialIndex 175
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.707107 9.3e-005 0.707107
+    materialIndex 174
+    pos 0.117631 -2.81596 0
+    norm -0.707107 8e-005 0.707107
+    materialIndex 162
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.612406 -0.499919 0.612405
+    materialIndex 175
+  }
+  poly {
+    numVertices 3
+    pos 0.212337 -3.31597 -0.094706
+    norm -0.612401 -0.49993 0.612401
+    materialIndex 163
+    pos 0.471134 -3.68202 -0.353503
+    norm -0.353604 -0.865984 0.353603
+    materialIndex 164
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353611 -0.865978 0.353611
+    materialIndex 176
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.612406 -0.499919 0.612405
+    materialIndex 175
+    pos 0.212337 -3.31597 -0.094706
+    norm -0.612401 -0.49993 0.612401
+    materialIndex 163
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353611 -0.865978 0.353611
+    materialIndex 176
+  }
+  poly {
+    numVertices 3
+    pos 0.471134 -3.68202 -0.353503
+    norm -0.353604 -0.865984 0.353603
+    materialIndex 164
+    pos 0.824679 -3.81604 -0.707048
+    norm -5.9e-005 -1 5.9e-005
+    materialIndex 165
+    pos 0.824738 -2.81604 -0.707107
+    norm -6.8e-005 -1 6.8e-005
+    materialIndex 177
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353611 -0.865978 0.353611
+    materialIndex 176
+    pos 0.471134 -3.68202 -0.353503
+    norm -0.353604 -0.865984 0.353603
+    materialIndex 164
+    pos 0.824738 -2.81604 -0.707107
+    norm -6.8e-005 -1 6.8e-005
+    materialIndex 177
+  }
+  poly {
+    numVertices 3
+    pos 0.824679 -3.81604 -0.707048
+    norm -5.9e-005 -1 5.9e-005
+    materialIndex 165
+    pos 1.17824 -3.6821 -1.06061
+    norm 0.353502 -0.866067 -0.353502
+    materialIndex 166
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353494 -0.866074 -0.353494
+    materialIndex 178
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -6.8e-005 -1 6.8e-005
+    materialIndex 177
+    pos 0.824679 -3.81604 -0.707048
+    norm -5.9e-005 -1 5.9e-005
+    materialIndex 165
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353494 -0.866074 -0.353494
+    materialIndex 178
+  }
+  poly {
+    numVertices 3
+    pos 1.17824 -3.6821 -1.06061
+    norm 0.353502 -0.866067 -0.353502
+    materialIndex 166
+    pos 1.43708 -3.31611 -1.31945
+    norm 0.612343 -0.500074 -0.612342
+    materialIndex 167
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612338 -0.500085 -0.612338
+    materialIndex 179
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353494 -0.866074 -0.353494
+    materialIndex 178
+    pos 1.17824 -3.6821 -1.06061
+    norm 0.353502 -0.866067 -0.353502
+    materialIndex 166
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612338 -0.500085 -0.612338
+    materialIndex 179
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612338 -0.500085 -0.612338
+    materialIndex 179
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.707107 -8.6e-005 -0.707107
+    materialIndex 168
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.707107 -9.9e-005 -0.707107
+    materialIndex 180
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612334 -0.500096 -0.612333
+    materialIndex 191
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612338 -0.500085 -0.612338
+    materialIndex 179
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.707107 -9.9e-005 -0.707107
+    materialIndex 180
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.707107 -8.6e-005 -0.707107
+    materialIndex 168
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612404 0.499924 -0.612403
+    materialIndex 169
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612408 0.499913 -0.612408
+    materialIndex 181
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.707107 -9.9e-005 -0.707107
+    materialIndex 180
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.707107 -8.6e-005 -0.707107
+    materialIndex 168
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612408 0.499913 -0.612408
+    materialIndex 181
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612404 0.499924 -0.612403
+    materialIndex 169
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353608 0.865981 -0.353607
+    materialIndex 170
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353615 0.865975 -0.353615
+    materialIndex 182
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612408 0.499913 -0.612408
+    materialIndex 181
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.612404 0.499924 -0.612403
+    materialIndex 169
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353615 0.865975 -0.353615
+    materialIndex 182
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353608 0.865981 -0.353607
+    materialIndex 170
+    pos 0.824738 -2.81604 -0.707107
+    norm 6.3e-005 1 -6.3e-005
+    materialIndex 171
+    pos 0.824738 -2.81604 -0.707107
+    norm 7.2e-005 1 -7.2e-005
+    materialIndex 183
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353615 0.865975 -0.353615
+    materialIndex 182
+    pos 0.824738 -2.81604 -0.707107
+    norm 0.353608 0.865981 -0.353607
+    materialIndex 170
+    pos 0.824738 -2.81604 -0.707107
+    norm 7.2e-005 1 -7.2e-005
+    materialIndex 183
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 6.3e-005 1 -6.3e-005
+    materialIndex 171
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353498 0.866071 0.353498
+    materialIndex 172
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.35349 0.866077 0.35349
+    materialIndex 184
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm 7.2e-005 1 -7.2e-005
+    materialIndex 183
+    pos 0.824738 -2.81604 -0.707107
+    norm 6.3e-005 1 -6.3e-005
+    materialIndex 171
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.35349 0.866077 0.35349
+    materialIndex 184
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353498 0.866071 0.353498
+    materialIndex 172
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.61234 0.500079 0.61234
+    materialIndex 173
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.612336 0.50009 0.612335
+    materialIndex 185
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.35349 0.866077 0.35349
+    materialIndex 184
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353498 0.866071 0.353498
+    materialIndex 172
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.612336 0.50009 0.612335
+    materialIndex 185
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.61234 0.500079 0.61234
+    materialIndex 173
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.707107 9.3e-005 0.707107
+    materialIndex 174
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.707107 0.000105 0.707107
+    materialIndex 186
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.612336 0.50009 0.612335
+    materialIndex 185
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.61234 0.500079 0.61234
+    materialIndex 173
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.707107 0.000105 0.707107
+    materialIndex 186
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.707107 9.3e-005 0.707107
+    materialIndex 174
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.612406 -0.499919 0.612405
+    materialIndex 175
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.61241 -0.499908 0.61241
+    materialIndex 187
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.707107 0.000105 0.707107
+    materialIndex 186
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.707107 9.3e-005 0.707107
+    materialIndex 174
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.61241 -0.499908 0.61241
+    materialIndex 187
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.612406 -0.499919 0.612405
+    materialIndex 175
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353611 -0.865978 0.353611
+    materialIndex 176
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353619 -0.865972 0.353619
+    materialIndex 188
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.61241 -0.499908 0.61241
+    materialIndex 187
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.612406 -0.499919 0.612405
+    materialIndex 175
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353619 -0.865972 0.353619
+    materialIndex 188
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353611 -0.865978 0.353611
+    materialIndex 176
+    pos 0.824738 -2.81604 -0.707107
+    norm -6.8e-005 -1 6.8e-005
+    materialIndex 177
+    pos 0.824738 -2.81604 -0.707107
+    norm -7.7e-005 -1 7.7e-005
+    materialIndex 189
+  }
+  poly {
+    numVertices 3
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353619 -0.865972 0.353619
+    materialIndex 188
+    pos 0.824738 -2.81604 -0.707107
+    norm -0.353611 -0.865978 0.353611
+    materialIndex 176
+    pos 0.824738 -2.81604 -0.707107
+    norm -7.7e-005 -1 7.7e-005
+    materialIndex 189
+  }
+}

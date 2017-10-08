@@ -1,0 +1,152 @@
+Composer format 2.1 ascii
+camera {
+  position 5.26211 3.09263 -1.38722
+  viewDirection -0.853042 -0.383547 0.353853
+  focalDistance 5.8016
+  orthoUp 0.345784 0.0924084 0.933753
+  verticalFOV 0.785398
+}
+point_light {
+  position 5.21898 4.68627 -2.04877
+  color 1 1 1
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.2 0.6 0.75
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  origin 1.02616 -0.365439 -1.13081
+  radius 0.288315
+  xaxis 1 0 0
+  xlength 0.288315
+  yaxis 0 1 0
+  ylength 0.288315
+  zaxis 0 0 1
+  zlength 0.288315
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.8 0.2 0.5
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  origin 7.4119e-008 2.78629 -0.116676
+  radius 0.310878
+  xaxis 1 0 0
+  xlength 0.310878
+  yaxis 0 1 0
+  ylength 0.310878
+  zaxis 0 0 1
+  zlength 0.310878
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.5 0.75 0.2
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  origin 1.39952 0.365459 2.25247
+  radius 0.312566
+  xaxis 1 0 0
+  xlength 0.312566
+  yaxis 0 1 0
+  ylength 0.312566
+  zaxis 0 0 1
+  zlength 0.312566
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.34 0.07 0.56
+    ambColor 0.2 0.2 0.2
+    specColor 0.4 0.4 0.4
+    emisColor 0 0 0
+    shininess 0.953704
+    ktran 0
+  }
+  origin -3.21911e-007 2.01869 0.108636
+  radius 0.670496
+  xaxis 1 0 0
+  xlength 0.670496
+  yaxis 0 1 0
+  ylength 0.670496
+  zaxis 0 0 1
+  zlength 0.670496
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.56 0.24 0.12
+    ambColor 0.2 0.2 0.2
+    specColor 0.4 0.4 0.4
+    emisColor 0 0 0
+    shininess 0.944444
+    ktran 0
+  }
+  origin 0.990468 0.489687 1.61544
+  radius 0.636615
+  xaxis 1 0 0
+  xlength 0.636615
+  yaxis 0 1 0
+  ylength 0.636615
+  zaxis 0 0 1
+  zlength 0.636615
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.04 0.56 0.28
+    ambColor 0.2 0.2 0.2
+    specColor 0.4 0.4 0.4
+    emisColor 0 0 0
+    shininess 0.972222
+    ktran 0
+  }
+  origin 0.709821 -0.124101 -0.637882
+  radius 0.597582
+  xaxis 1 0 0
+  xlength 0.597582
+  yaxis 0 1 0
+  ylength 0.597582
+  zaxis 0 0 1
+  zlength 0.597582
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.6 0.6 0.6
+    ambColor 0.2 0.2 0.2
+    specColor 0.5 0.5 0.5
+    emisColor 0 0 0
+    shininess 0.925926
+    ktran 0
+  }
+  origin 0.0579858 0.496598 0.550744
+  radius 1.18902
+  xaxis 1 0 0
+  xlength 1.18902
+  yaxis 0 1 0
+  ylength 1.18902
+  zaxis 0 0 1
+  zlength 1.18902
+}

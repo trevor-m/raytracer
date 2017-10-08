@@ -1,0 +1,506 @@
+Composer format 2.1 ascii
+camera {
+  position 0.224581 1.32644 -5.40229
+  viewDirection 0.115697 -0.195146 0.973927
+  focalDistance 2.91133
+  orthoUp -0.148989 -0.972828 -0.177226
+  verticalFOV 0.785398
+}
+point_light {
+  position 4.98521 -2.76655 -10.5395
+  color 1 1 1
+}
+directional_light {
+  direction 0.115697 -0.195146 0.973927
+  color 1 1 1
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.15 0.15 0.15
+    ambColor 0.14 0.14 0.14
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos 1.3559 -0.415189 -0.786286
+    pos 1.39791 -0.686121 -0.778658
+    pos 2.0771 -0.574889 -0.568516
+  }
+  poly {
+    numVertices 3
+    pos 1.3559 -0.415189 -0.786286
+    pos 2.0771 -0.574889 -0.568516
+    pos 2.03509 -0.303957 -0.576144
+  }
+  poly {
+    numVertices 3
+    pos 1.4362 -0.410121 -1.0485
+    pos 2.11539 -0.298889 -0.838354
+    pos 2.1574 -0.569821 -0.830726
+  }
+  poly {
+    numVertices 3
+    pos 1.4362 -0.410121 -1.0485
+    pos 2.1574 -0.569821 -0.830726
+    pos 1.47821 -0.681053 -1.04087
+  }
+  poly {
+    numVertices 3
+    pos 1.3559 -0.415189 -0.786286
+    pos 1.4362 -0.410121 -1.0485
+    pos 1.47821 -0.681053 -1.04087
+  }
+  poly {
+    numVertices 3
+    pos 1.3559 -0.415189 -0.786286
+    pos 1.47821 -0.681053 -1.04087
+    pos 1.39791 -0.686121 -0.778658
+  }
+  poly {
+    numVertices 3
+    pos 2.03509 -0.303957 -0.576144
+    pos 2.0771 -0.574889 -0.568516
+    pos 2.1574 -0.569821 -0.830726
+  }
+  poly {
+    numVertices 3
+    pos 2.03509 -0.303957 -0.576144
+    pos 2.1574 -0.569821 -0.830726
+    pos 2.11539 -0.298889 -0.838354
+  }
+  poly {
+    numVertices 3
+    pos 1.3559 -0.415189 -0.786286
+    pos 2.03509 -0.303957 -0.576144
+    pos 2.11539 -0.298889 -0.838354
+  }
+  poly {
+    numVertices 3
+    pos 1.3559 -0.415189 -0.786286
+    pos 2.11539 -0.298889 -0.838354
+    pos 1.4362 -0.410121 -1.0485
+  }
+  poly {
+    numVertices 3
+    pos 1.39791 -0.686121 -0.778658
+    pos 1.47821 -0.681053 -1.04087
+    pos 2.1574 -0.569821 -0.830726
+  }
+  poly {
+    numVertices 3
+    pos 1.39791 -0.686121 -0.778658
+    pos 2.1574 -0.569821 -0.830726
+    pos 2.0771 -0.574889 -0.568516
+  }
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.15 0.15 0.15
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos 0.445669 -0.132364 -0.670525
+    pos 0.350795 -0.364406 -0.648024
+    pos 1.00947 -0.651453 -0.830976
+  }
+  poly {
+    numVertices 3
+    pos 0.445669 -0.132364 -0.670525
+    pos 1.00947 -0.651453 -0.830976
+    pos 1.10434 -0.419411 -0.853477
+  }
+  poly {
+    numVertices 3
+    pos 0.379699 -0.128943 -0.913398
+    pos 1.03837 -0.41599 -1.09635
+    pos 0.943499 -0.648032 -1.07385
+  }
+  poly {
+    numVertices 3
+    pos 0.379699 -0.128943 -0.913398
+    pos 0.943499 -0.648032 -1.07385
+    pos 0.284826 -0.360985 -0.890897
+  }
+  poly {
+    numVertices 3
+    pos 0.445669 -0.132364 -0.670525
+    pos 0.379699 -0.128943 -0.913398
+    pos 0.284826 -0.360985 -0.890897
+  }
+  poly {
+    numVertices 3
+    pos 0.445669 -0.132364 -0.670525
+    pos 0.284826 -0.360985 -0.890897
+    pos 0.350795 -0.364406 -0.648024
+  }
+  poly {
+    numVertices 3
+    pos 1.10434 -0.419411 -0.853477
+    pos 1.00947 -0.651453 -0.830976
+    pos 0.943499 -0.648032 -1.07385
+  }
+  poly {
+    numVertices 3
+    pos 1.10434 -0.419411 -0.853477
+    pos 0.943499 -0.648032 -1.07385
+    pos 1.03837 -0.41599 -1.09635
+  }
+  poly {
+    numVertices 3
+    pos 0.445669 -0.132364 -0.670525
+    pos 1.10434 -0.419411 -0.853477
+    pos 1.03837 -0.41599 -1.09635
+  }
+  poly {
+    numVertices 3
+    pos 0.445669 -0.132364 -0.670525
+    pos 1.03837 -0.41599 -1.09635
+    pos 0.379699 -0.128943 -0.913398
+  }
+  poly {
+    numVertices 3
+    pos 0.350795 -0.364406 -0.648024
+    pos 0.284826 -0.360985 -0.890897
+    pos 0.943499 -0.648032 -1.07385
+  }
+  poly {
+    numVertices 3
+    pos 0.350795 -0.364406 -0.648024
+    pos 0.943499 -0.648032 -1.07385
+    pos 1.00947 -0.651453 -0.830976
+  }
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.63 0.02 0.07
+    ambColor 0.2 0.2 0.2
+    specColor 0.39 0.39 0.39
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  origin 1.40209 0.889724 -1.16044
+  radius 0.252755
+  xaxis 1 0 0
+  xlength 0.252755
+  yaxis 0 1 0
+  ylength 0.252755
+  zaxis 0 0 1
+  zlength 0.252755
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0 0 0
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  origin 1.32388 0.672387 -0.861948
+  radius 0.523468
+  xaxis 1 0 0
+  xlength 0.523468
+  yaxis 0 1 0
+  ylength 0.523468
+  zaxis 0 0 1
+  zlength 0.523468
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.23 0.23 0.24
+    ambColor 0.14 0.14 0.14
+    specColor 0.51 0.51 0.51
+    emisColor 0 0 0
+    shininess 0.203704
+    ktran 0
+  }
+  origin 0.171267 -0.723418 -0.00485295
+  radius 0.790025
+  xaxis 1 0 0
+  xlength 0.790025
+  yaxis 0 1 0
+  ylength 0.790025
+  zaxis 0 0 1
+  zlength 0.790025
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.56 0.29 0.27
+    ambColor 0.2 0.2 0.2
+    specColor 0.13 0.13 0.13
+    emisColor 0 0 0
+    shininess 0.324074
+    ktran 0
+  }
+  origin 1.28117 0.222247 -6.74218e-009
+  radius 1.24257
+  xaxis 1 0 0
+  xlength 1.24257
+  yaxis 0 1 0
+  ylength 1.24257
+  zaxis 0 0 1
+  zlength 1.24257
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.23 0.23 0.24
+    ambColor 0.2 0.2 0.2
+    specColor 0.51 0.51 0.51
+    emisColor 0 0 0
+    shininess 0.203704
+    ktran 0
+  }
+  origin 2.16235 -0.818404 0.0936425
+  radius 0.818047
+  xaxis 1 0 0
+  xlength 0.818047
+  yaxis 0 1 0
+  ylength 0.818047
+  zaxis 0 0 1
+  zlength 0.818047
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.36 0.4 0.56
+    ambColor 0.2 0.2 0.2
+    specColor 0.35 0.35 0.35
+    emisColor 0 0 0
+    shininess 0.75
+    ktran 0
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos -11.1792 6.59808 1.46575
+    pos -11.2792 -8.28795 2.08698
+    pos 8.02086 -8.27182 5.57901
+  }
+  poly {
+    numVertices 3
+    pos -11.1792 6.59808 1.46575
+    pos 8.02086 -8.27182 5.57901
+    pos 8.12082 6.61421 4.95778
+  }
+  poly {
+    numVertices 3
+    pos -11.036 6.56409 0.674414
+    pos 8.26403 6.58022 4.16644
+    pos 8.16407 -8.30581 4.78767
+  }
+  poly {
+    numVertices 3
+    pos -11.036 6.56409 0.674414
+    pos 8.16407 -8.30581 4.78767
+    pos -11.136 -8.32194 1.29564
+  }
+  poly {
+    numVertices 3
+    pos -11.1792 6.59808 1.46575
+    pos -11.036 6.56409 0.674414
+    pos -11.136 -8.32194 1.29564
+  }
+  poly {
+    numVertices 3
+    pos -11.1792 6.59808 1.46575
+    pos -11.136 -8.32194 1.29564
+    pos -11.2792 -8.28795 2.08698
+  }
+  poly {
+    numVertices 3
+    pos 8.12082 6.61421 4.95778
+    pos 8.02086 -8.27182 5.57901
+    pos 8.16407 -8.30581 4.78767
+  }
+  poly {
+    numVertices 3
+    pos 8.12082 6.61421 4.95778
+    pos 8.16407 -8.30581 4.78767
+    pos 8.26403 6.58022 4.16644
+  }
+  poly {
+    numVertices 3
+    pos -11.1792 6.59808 1.46575
+    pos 8.12082 6.61421 4.95778
+    pos 8.26403 6.58022 4.16644
+  }
+  poly {
+    numVertices 3
+    pos -11.1792 6.59808 1.46575
+    pos 8.26403 6.58022 4.16644
+    pos -11.036 6.56409 0.674414
+  }
+  poly {
+    numVertices 3
+    pos -11.2792 -8.28795 2.08698
+    pos -11.136 -8.32194 1.29564
+    pos 8.16407 -8.30581 4.78767
+  }
+  poly {
+    numVertices 3
+    pos -11.2792 -8.28795 2.08698
+    pos 8.16407 -8.30581 4.78767
+    pos 8.02086 -8.27182 5.57901
+  }
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.56 0.4 0.34
+    ambColor 0.2 0.2 0.2
+    specColor 0.06 0.06 0.06
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  origin 1.71898 -0.113065 -0.843152
+  radius 0.45687
+  xaxis 0.930746 -0.0596649 0.360767
+  xlength 0.45687
+  yaxis 0.0679516 0.997635 -0.0103164
+  ylength 0.45687
+  zaxis -0.359296 0.0341164 0.9326
+  zlength 0.456869
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.56 0.4 0.34
+    ambColor 0.2 0.2 0.2
+    specColor 0.06 0.06 0.06
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  origin 0.875958 -0.080132 -0.794889
+  radius 0.451465
+  xaxis 0.930746 -0.0596649 0.360767
+  xlength 0.451465
+  yaxis 0.0679516 0.997635 -0.0103164
+  ylength 0.451465
+  zaxis -0.359296 0.0341164 0.9326
+  zlength 0.451464
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.15 0.15 0.15
+    ambColor 0.2 0.2 0.2
+    specColor 0.66 0.66 0.66
+    emisColor 0 0 0
+    shininess 0.87963
+    ktran 0
+  }
+  origin 0.827302 0.00829136 -1.14587
+  radius 0.221292
+  xaxis 0.851702 -0.0553351 -0.521097
+  xlength 0.221292
+  yaxis -0.126958 0.942994 -0.307642
+  ylength 0.221292
+  zaxis 0.508415 0.328177 0.796125
+  zlength 0.221292
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.55 0.55 0.56
+    ambColor 0.2 0.2 0.2
+    specColor 0.25 0.25 0.25
+    emisColor 0 0 0
+    shininess 0.87963
+    ktran 0
+  }
+  origin 0.899234 0.0272379 -0.851389
+  radius 0.459355
+  xaxis 0.851702 -0.0553351 -0.521097
+  xlength 0.450831
+  yaxis -0.126958 0.942994 -0.307642
+  ylength 0.463617
+  zaxis 0.508415 0.328177 0.796125
+  zlength 0.463617
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.15 0.15 0.15
+    ambColor 0.2 0.2 0.2
+    specColor 0.66 0.66 0.66
+    emisColor 0 0 0
+    shininess 0.87963
+    ktran 0
+  }
+  origin 1.81719 -0.0637172 -1.17188
+  radius 0.221292
+  xaxis 0.99351 -0.0810053 -0.0798465
+  xlength 0.221292
+  yaxis 0.0515153 0.94633 -0.319071
+  ylength 0.221292
+  zaxis 0.101408 0.312887 0.944361
+  zlength 0.221292
+}
+sphere {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.55 0.55 0.56
+    ambColor 0.2 0.2 0.2
+    specColor 0.25 0.25 0.25
+    emisColor 0 0 0
+    shininess 0.87963
+    ktran 0
+  }
+  origin 1.74846 -0.0468889 -0.876506
+  radius 0.459355
+  xaxis 0.99351 -0.0810053 -0.0798466
+  xlength 0.450831
+  yaxis 0.0515153 0.94633 -0.319071
+  ylength 0.463617
+  zaxis 0.101408 0.312887 0.944361
+  zlength 0.463617
+}

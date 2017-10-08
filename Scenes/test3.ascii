@@ -1,0 +1,740 @@
+Composer format 2.1 ascii
+camera {
+  position 5.45747 3.76998 -3.59695
+  viewDirection -0.764302 -0.392387 0.511737
+  focalDistance 8.03053
+  orthoUp -0.331679 0.919753 0.209865
+  verticalFOV 0.785398
+}
+point_light {
+  position 2.47975 3.75486 -4.72242
+  color 0.631513 0.625613 1
+}
+point_light {
+  position 7.30154 3.91592 -0.313475
+  color 1 0.507951 0.490585
+}
+directional_light {
+  direction -0.764302 -0.392387 0.511737
+  color 1 1 1
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.7 0.7 0.7
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos -9.22972 0.68411 7.30672
+    pos -9.22972 -1.31589 7.30672
+    pos -7.22972 -1.31589 7.30672
+  }
+  poly {
+    numVertices 3
+    pos -9.22972 0.68411 7.30672
+    pos -7.22972 -1.31589 7.30672
+    pos -7.22972 0.68411 7.30672
+  }
+  poly {
+    numVertices 3
+    pos -9.22972 0.68411 -7.49376
+    pos -7.22972 0.68411 -7.49376
+    pos -7.22972 -1.31589 -7.49376
+  }
+  poly {
+    numVertices 3
+    pos -9.22972 0.68411 -7.49376
+    pos -7.22972 -1.31589 -7.49376
+    pos -9.22972 -1.31589 -7.49376
+  }
+  poly {
+    numVertices 3
+    pos -9.22972 0.68411 7.30672
+    pos -9.22972 0.68411 -7.49376
+    pos -9.22972 -1.31589 -7.49376
+  }
+  poly {
+    numVertices 3
+    pos -9.22972 0.68411 7.30672
+    pos -9.22972 -1.31589 -7.49376
+    pos -9.22972 -1.31589 7.30672
+  }
+  poly {
+    numVertices 3
+    pos -7.22972 0.68411 7.30672
+    pos -7.22972 -1.31589 7.30672
+    pos -7.22972 -1.31589 -7.49376
+  }
+  poly {
+    numVertices 3
+    pos -7.22972 0.68411 7.30672
+    pos -7.22972 -1.31589 -7.49376
+    pos -7.22972 0.68411 -7.49376
+  }
+  poly {
+    numVertices 3
+    pos -9.22972 0.68411 7.30672
+    pos -7.22972 0.68411 7.30672
+    pos -7.22972 0.68411 -7.49376
+  }
+  poly {
+    numVertices 3
+    pos -9.22972 0.68411 7.30672
+    pos -7.22972 0.68411 -7.49376
+    pos -9.22972 0.68411 -7.49376
+  }
+  poly {
+    numVertices 3
+    pos -9.22972 -1.31589 7.30672
+    pos -9.22972 -1.31589 -7.49376
+    pos -7.22972 -1.31589 -7.49376
+  }
+  poly {
+    numVertices 3
+    pos -9.22972 -1.31589 7.30672
+    pos -7.22972 -1.31589 -7.49376
+    pos -7.22972 -1.31589 7.30672
+  }
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.5 0 0
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos 1.10973 1.59225 1.41654
+    pos 0.883627 1.50968 1.46927
+    pos 2.01407 -1.0298 2.34018
+  }
+  poly {
+    numVertices 3
+    pos 1.10973 1.59225 1.41654
+    pos 2.01407 -1.0298 2.34018
+    pos 2.24017 -0.947233 2.28745
+  }
+  poly {
+    numVertices 3
+    pos 1.08845 1.50419 1.18738
+    pos 2.21889 -1.03529 2.05829
+    pos 1.99279 -1.11786 2.11102
+  }
+  poly {
+    numVertices 3
+    pos 1.08845 1.50419 1.18738
+    pos 1.99279 -1.11786 2.11102
+    pos 0.862348 1.42162 1.24011
+  }
+  poly {
+    numVertices 3
+    pos 1.10973 1.59225 1.41654
+    pos 1.08845 1.50419 1.18738
+    pos 0.862348 1.42162 1.24011
+  }
+  poly {
+    numVertices 3
+    pos 1.10973 1.59225 1.41654
+    pos 0.862348 1.42162 1.24011
+    pos 0.883627 1.50968 1.46927
+  }
+  poly {
+    numVertices 3
+    pos 2.24017 -0.947233 2.28745
+    pos 2.01407 -1.0298 2.34018
+    pos 1.99279 -1.11786 2.11102
+  }
+  poly {
+    numVertices 3
+    pos 2.24017 -0.947233 2.28745
+    pos 1.99279 -1.11786 2.11102
+    pos 2.21889 -1.03529 2.05829
+  }
+  poly {
+    numVertices 3
+    pos 1.10973 1.59225 1.41654
+    pos 2.24017 -0.947233 2.28745
+    pos 2.21889 -1.03529 2.05829
+  }
+  poly {
+    numVertices 3
+    pos 1.10973 1.59225 1.41654
+    pos 2.21889 -1.03529 2.05829
+    pos 1.08845 1.50419 1.18738
+  }
+  poly {
+    numVertices 3
+    pos 0.883627 1.50968 1.46927
+    pos 0.862348 1.42162 1.24011
+    pos 1.99279 -1.11786 2.11102
+  }
+  poly {
+    numVertices 3
+    pos 0.883627 1.50968 1.46927
+    pos 1.99279 -1.11786 2.11102
+    pos 2.01407 -1.0298 2.34018
+  }
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0 0.5 0
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos 1.75036 1.08025 1.19355
+    pos 1.56586 1.23536 1.24476
+    pos -0.0563729 -0.999873 2.17072
+  }
+  poly {
+    numVertices 3
+    pos 1.75036 1.08025 1.19355
+    pos -0.0563729 -0.999873 2.17072
+    pos 0.128124 -1.15498 2.11952
+  }
+  poly {
+    numVertices 3
+    pos 1.66176 1.05012 0.965601
+    pos 0.039529 -1.18512 1.89156
+    pos -0.144968 -1.03001 1.94277
+  }
+  poly {
+    numVertices 3
+    pos 1.66176 1.05012 0.965601
+    pos -0.144968 -1.03001 1.94277
+    pos 1.47727 1.20523 1.0168
+  }
+  poly {
+    numVertices 3
+    pos 1.75036 1.08025 1.19355
+    pos 1.66176 1.05012 0.965601
+    pos 1.47727 1.20523 1.0168
+  }
+  poly {
+    numVertices 3
+    pos 1.75036 1.08025 1.19355
+    pos 1.47727 1.20523 1.0168
+    pos 1.56586 1.23536 1.24476
+  }
+  poly {
+    numVertices 3
+    pos 0.128124 -1.15498 2.11952
+    pos -0.0563729 -0.999873 2.17072
+    pos -0.144968 -1.03001 1.94277
+  }
+  poly {
+    numVertices 3
+    pos 0.128124 -1.15498 2.11952
+    pos -0.144968 -1.03001 1.94277
+    pos 0.039529 -1.18512 1.89156
+  }
+  poly {
+    numVertices 3
+    pos 1.75036 1.08025 1.19355
+    pos 0.128124 -1.15498 2.11952
+    pos 0.039529 -1.18512 1.89156
+  }
+  poly {
+    numVertices 3
+    pos 1.75036 1.08025 1.19355
+    pos 0.039529 -1.18512 1.89156
+    pos 1.66176 1.05012 0.965601
+  }
+  poly {
+    numVertices 3
+    pos 1.56586 1.23536 1.24476
+    pos 1.47727 1.20523 1.0168
+    pos -0.144968 -1.03001 1.94277
+  }
+  poly {
+    numVertices 3
+    pos 1.56586 1.23536 1.24476
+    pos -0.144968 -1.03001 1.94277
+    pos -0.0563729 -0.999873 2.17072
+  }
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0 0 0.5
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos 1.44495 1.30329 1.33211
+    pos 1.20455 1.3574 1.33299
+    pos 0.631632 -1.1662 -0.00437981
+  }
+  poly {
+    numVertices 3
+    pos 1.44495 1.30329 1.33211
+    pos 0.631632 -1.1662 -0.00437981
+    pos 0.87203 -1.22031 -0.00525898
+  }
+  poly {
+    numVertices 3
+    pos 1.46903 1.41383 1.1132
+    pos 0.896111 -1.10977 -0.224166
+    pos 0.655713 -1.05566 -0.223287
+  }
+  poly {
+    numVertices 3
+    pos 1.46903 1.41383 1.1132
+    pos 0.655713 -1.05566 -0.223287
+    pos 1.22863 1.46794 1.11408
+  }
+  poly {
+    numVertices 3
+    pos 1.44495 1.30329 1.33211
+    pos 1.46903 1.41383 1.1132
+    pos 1.22863 1.46794 1.11408
+  }
+  poly {
+    numVertices 3
+    pos 1.44495 1.30329 1.33211
+    pos 1.22863 1.46794 1.11408
+    pos 1.20455 1.3574 1.33299
+  }
+  poly {
+    numVertices 3
+    pos 0.87203 -1.22031 -0.00525898
+    pos 0.631632 -1.1662 -0.00437981
+    pos 0.655713 -1.05566 -0.223287
+  }
+  poly {
+    numVertices 3
+    pos 0.87203 -1.22031 -0.00525898
+    pos 0.655713 -1.05566 -0.223287
+    pos 0.896111 -1.10977 -0.224166
+  }
+  poly {
+    numVertices 3
+    pos 1.44495 1.30329 1.33211
+    pos 0.87203 -1.22031 -0.00525898
+    pos 0.896111 -1.10977 -0.224166
+  }
+  poly {
+    numVertices 3
+    pos 1.44495 1.30329 1.33211
+    pos 0.896111 -1.10977 -0.224166
+    pos 1.46903 1.41383 1.1132
+  }
+  poly {
+    numVertices 3
+    pos 1.20455 1.3574 1.33299
+    pos 1.22863 1.46794 1.11408
+    pos 0.655713 -1.05566 -0.223287
+  }
+  poly {
+    numVertices 3
+    pos 1.20455 1.3574 1.33299
+    pos 0.655713 -1.05566 -0.223287
+    pos 0.631632 -1.1662 -0.00437981
+  }
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.46 0.47 0.09
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0.8
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos -2.30974 2.25869 0.150629
+    pos -2.30974 1.81435 0.150629
+    pos -1.8654 1.81435 0.150629
+  }
+  poly {
+    numVertices 3
+    pos -2.30974 2.25869 0.150629
+    pos -1.8654 1.81435 0.150629
+    pos -1.8654 2.25869 0.150629
+  }
+  poly {
+    numVertices 3
+    pos -2.30974 2.25869 -0.293705
+    pos -1.8654 2.25869 -0.293705
+    pos -1.8654 1.81435 -0.293705
+  }
+  poly {
+    numVertices 3
+    pos -2.30974 2.25869 -0.293705
+    pos -1.8654 1.81435 -0.293705
+    pos -2.30974 1.81435 -0.293705
+  }
+  poly {
+    numVertices 3
+    pos -2.30974 2.25869 0.150629
+    pos -2.30974 2.25869 -0.293705
+    pos -2.30974 1.81435 -0.293705
+  }
+  poly {
+    numVertices 3
+    pos -2.30974 2.25869 0.150629
+    pos -2.30974 1.81435 -0.293705
+    pos -2.30974 1.81435 0.150629
+  }
+  poly {
+    numVertices 3
+    pos -1.8654 2.25869 0.150629
+    pos -1.8654 1.81435 0.150629
+    pos -1.8654 1.81435 -0.293705
+  }
+  poly {
+    numVertices 3
+    pos -1.8654 2.25869 0.150629
+    pos -1.8654 1.81435 -0.293705
+    pos -1.8654 2.25869 -0.293705
+  }
+  poly {
+    numVertices 3
+    pos -2.30974 2.25869 0.150629
+    pos -1.8654 2.25869 0.150629
+    pos -1.8654 2.25869 -0.293705
+  }
+  poly {
+    numVertices 3
+    pos -2.30974 2.25869 0.150629
+    pos -1.8654 2.25869 -0.293705
+    pos -2.30974 2.25869 -0.293705
+  }
+  poly {
+    numVertices 3
+    pos -2.30974 1.81435 0.150629
+    pos -2.30974 1.81435 -0.293705
+    pos -1.8654 1.81435 -0.293705
+  }
+  poly {
+    numVertices 3
+    pos -2.30974 1.81435 0.150629
+    pos -1.8654 1.81435 -0.293705
+    pos -1.8654 1.81435 0.150629
+  }
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.09 0.44 0.45
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0.6
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos -2.58748 1.79018 0.435478
+    pos -2.58748 0.919224 0.435478
+    pos -1.71652 0.919224 0.435478
+  }
+  poly {
+    numVertices 3
+    pos -2.58748 1.79018 0.435478
+    pos -1.71652 0.919224 0.435478
+    pos -1.71652 1.79018 0.435478
+  }
+  poly {
+    numVertices 3
+    pos -2.58748 1.79018 -0.435474
+    pos -1.71652 1.79018 -0.435474
+    pos -1.71652 0.919224 -0.435474
+  }
+  poly {
+    numVertices 3
+    pos -2.58748 1.79018 -0.435474
+    pos -1.71652 0.919224 -0.435474
+    pos -2.58748 0.919224 -0.435474
+  }
+  poly {
+    numVertices 3
+    pos -2.58748 1.79018 0.435478
+    pos -2.58748 1.79018 -0.435474
+    pos -2.58748 0.919224 -0.435474
+  }
+  poly {
+    numVertices 3
+    pos -2.58748 1.79018 0.435478
+    pos -2.58748 0.919224 -0.435474
+    pos -2.58748 0.919224 0.435478
+  }
+  poly {
+    numVertices 3
+    pos -1.71652 1.79018 0.435478
+    pos -1.71652 0.919224 0.435478
+    pos -1.71652 0.919224 -0.435474
+  }
+  poly {
+    numVertices 3
+    pos -1.71652 1.79018 0.435478
+    pos -1.71652 0.919224 -0.435474
+    pos -1.71652 1.79018 -0.435474
+  }
+  poly {
+    numVertices 3
+    pos -2.58748 1.79018 0.435478
+    pos -1.71652 1.79018 0.435478
+    pos -1.71652 1.79018 -0.435474
+  }
+  poly {
+    numVertices 3
+    pos -2.58748 1.79018 0.435478
+    pos -1.71652 1.79018 -0.435474
+    pos -2.58748 1.79018 -0.435474
+  }
+  poly {
+    numVertices 3
+    pos -2.58748 0.919224 0.435478
+    pos -2.58748 0.919224 -0.435474
+    pos -1.71652 0.919224 -0.435474
+  }
+  poly {
+    numVertices 3
+    pos -2.58748 0.919224 0.435478
+    pos -1.71652 0.919224 -0.435474
+    pos -1.71652 0.919224 0.435478
+  }
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.46 0.14 0.44
+    ambColor 0.2 0.2 0.2
+    specColor 0 0 0
+    emisColor 0 0 0
+    shininess 0.2
+    ktran 0.4
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos -3.07588 0.929986 0.993422
+    pos -3.08923 -1.06993 1.00537
+    pos -1.08927 -1.08328 1.00654
+  }
+  poly {
+    numVertices 3
+    pos -3.07588 0.929986 0.993422
+    pos -1.08927 -1.08328 1.00654
+    pos -1.07592 0.916642 0.994592
+  }
+  poly {
+    numVertices 3
+    pos -3.07479 0.918028 -1.00654
+    pos -1.07483 0.904684 -1.00537
+    pos -1.08818 -1.09524 -0.993422
+  }
+  poly {
+    numVertices 3
+    pos -3.07479 0.918028 -1.00654
+    pos -1.08818 -1.09524 -0.993422
+    pos -3.08814 -1.08189 -0.994592
+  }
+  poly {
+    numVertices 3
+    pos -3.07588 0.929986 0.993422
+    pos -3.07479 0.918028 -1.00654
+    pos -3.08814 -1.08189 -0.994592
+  }
+  poly {
+    numVertices 3
+    pos -3.07588 0.929986 0.993422
+    pos -3.08814 -1.08189 -0.994592
+    pos -3.08923 -1.06993 1.00537
+  }
+  poly {
+    numVertices 3
+    pos -1.07592 0.916642 0.994592
+    pos -1.08927 -1.08328 1.00654
+    pos -1.08818 -1.09524 -0.993422
+  }
+  poly {
+    numVertices 3
+    pos -1.07592 0.916642 0.994592
+    pos -1.08818 -1.09524 -0.993422
+    pos -1.07483 0.904684 -1.00537
+  }
+  poly {
+    numVertices 3
+    pos -3.07588 0.929986 0.993422
+    pos -1.07592 0.916642 0.994592
+    pos -1.07483 0.904684 -1.00537
+  }
+  poly {
+    numVertices 3
+    pos -3.07588 0.929986 0.993422
+    pos -1.07483 0.904684 -1.00537
+    pos -3.07479 0.918028 -1.00654
+  }
+  poly {
+    numVertices 3
+    pos -3.08923 -1.06993 1.00537
+    pos -3.08814 -1.08189 -0.994592
+    pos -1.08818 -1.09524 -0.993422
+  }
+  poly {
+    numVertices 3
+    pos -3.08923 -1.06993 1.00537
+    pos -1.08818 -1.09524 -0.993422
+    pos -1.08927 -1.08328 1.00654
+  }
+}
+poly_set {
+  name NULL
+  numMaterials 1
+  material {
+    diffColor 0.3 0.3 0.3
+    ambColor 0.2 0.2 0.2
+    specColor 0.6 0.6 0.6
+    emisColor 0 0 0
+    shininess 1
+    ktran 0
+  }
+  type POLYSET_TRI_MESH
+  normType PER_FACE_NORMAL
+  materialBinding PER_OBJECT_MATERIAL
+  hasTextureCoords FALSE
+  rowSize 0
+  numPolys 12
+  poly {
+    numVertices 3
+    pos -7.68088 -1.19552 7.61871
+    pos -7.68088 -1.48112 7.61871
+    pos 7.55654 -1.48112 7.61871
+  }
+  poly {
+    numVertices 3
+    pos -7.68088 -1.19552 7.61871
+    pos 7.55654 -1.48112 7.61871
+    pos 7.55654 -1.19552 7.61871
+  }
+  poly {
+    numVertices 3
+    pos -7.68088 -1.19552 -7.61871
+    pos 7.55654 -1.19552 -7.61871
+    pos 7.55654 -1.48112 -7.61871
+  }
+  poly {
+    numVertices 3
+    pos -7.68088 -1.19552 -7.61871
+    pos 7.55654 -1.48112 -7.61871
+    pos -7.68088 -1.48112 -7.61871
+  }
+  poly {
+    numVertices 3
+    pos -7.68088 -1.19552 7.61871
+    pos -7.68088 -1.19552 -7.61871
+    pos -7.68088 -1.48112 -7.61871
+  }
+  poly {
+    numVertices 3
+    pos -7.68088 -1.19552 7.61871
+    pos -7.68088 -1.48112 -7.61871
+    pos -7.68088 -1.48112 7.61871
+  }
+  poly {
+    numVertices 3
+    pos 7.55654 -1.19552 7.61871
+    pos 7.55654 -1.48112 7.61871
+    pos 7.55654 -1.48112 -7.61871
+  }
+  poly {
+    numVertices 3
+    pos 7.55654 -1.19552 7.61871
+    pos 7.55654 -1.48112 -7.61871
+    pos 7.55654 -1.19552 -7.61871
+  }
+  poly {
+    numVertices 3
+    pos -7.68088 -1.19552 7.61871
+    pos 7.55654 -1.19552 7.61871
+    pos 7.55654 -1.19552 -7.61871
+  }
+  poly {
+    numVertices 3
+    pos -7.68088 -1.19552 7.61871
+    pos 7.55654 -1.19552 -7.61871
+    pos -7.68088 -1.19552 -7.61871
+  }
+  poly {
+    numVertices 3
+    pos -7.68088 -1.48112 7.61871
+    pos -7.68088 -1.48112 -7.61871
+    pos 7.55654 -1.48112 -7.61871
+  }
+  poly {
+    numVertices 3
+    pos -7.68088 -1.48112 7.61871
+    pos 7.55654 -1.48112 -7.61871
+    pos 7.55654 -1.48112 7.61871
+  }
+}
